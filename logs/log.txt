@@ -1,0 +1,622 @@
+2023-05-03 14:00:20,340 - config_parser - INFO - reading json
+2023-05-03 14:00:20,343 - config_parser - INFO - reading json
+2023-05-03 14:00:20,345 - __main__ - INFO - ---START---
+2023-05-03 14:00:20,345 - __main__ - INFO - Loading config file
+2023-05-03 14:00:20,346 - config_parser - INFO - reading json
+2023-05-03 14:00:20,348 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:00:20,349 - __main__ - INFO - Create account manager
+2023-05-03 14:00:21,578 - __main__ - INFO - Run bot
+2023-05-03 14:00:21,588 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:00:21,588 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:00:24,882 - linkedin functions - ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0043DCE3+50899]
+	(No symbol) [0x003CE111]
+	(No symbol) [0x002D5588]
+	(No symbol) [0x003008F9]
+	(No symbol) [0x00300AFB]
+	(No symbol) [0x0032F902]
+	(No symbol) [0x0031B944]
+	(No symbol) [0x0032E01C]
+	(No symbol) [0x0031B6F6]
+	(No symbol) [0x002F7708]
+	(No symbol) [0x002F886D]
+	GetHandleVerifier [0x006A3EAE+2566302]
+	GetHandleVerifier [0x006D92B1+2784417]
+	GetHandleVerifier [0x006D327C+2759788]
+	GetHandleVerifier [0x004D5740+672048]
+	(No symbol) [0x003D8872]
+	(No symbol) [0x003D41C8]
+	(No symbol) [0x003D42AB]
+	(No symbol) [0x003C71B7]
+	BaseThreadInitThunk [0x77900099+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47B3E+238]
+
+2023-05-03 14:00:24,882 - linkedin functions - ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0043DCE3+50899]
+	(No symbol) [0x003CE111]
+	(No symbol) [0x002D5588]
+	(No symbol) [0x003008F9]
+	(No symbol) [0x00300AFB]
+	(No symbol) [0x0032F902]
+	(No symbol) [0x0031B944]
+	(No symbol) [0x0032E01C]
+	(No symbol) [0x0031B6F6]
+	(No symbol) [0x002F7708]
+	(No symbol) [0x002F886D]
+	GetHandleVerifier [0x006A3EAE+2566302]
+	GetHandleVerifier [0x006D92B1+2784417]
+	GetHandleVerifier [0x006D327C+2759788]
+	GetHandleVerifier [0x004D5740+672048]
+	(No symbol) [0x003D8872]
+	(No symbol) [0x003D41C8]
+	(No symbol) [0x003D42AB]
+	(No symbol) [0x003C71B7]
+	BaseThreadInitThunk [0x77900099+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47B3E+238]
+
+2023-05-03 14:00:24,906 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:00:24,906 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:00:24,913 - __main__ - INFO - ---END---
+2023-05-03 14:01:18,236 - config_parser - INFO - reading json
+2023-05-03 14:01:18,246 - config_parser - INFO - reading json
+2023-05-03 14:01:18,247 - __main__ - INFO - ---START---
+2023-05-03 14:01:18,248 - __main__ - INFO - Loading config file
+2023-05-03 14:01:18,249 - config_parser - INFO - reading json
+2023-05-03 14:01:18,250 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:01:18,251 - __main__ - INFO - Create account manager
+2023-05-03 14:01:19,405 - __main__ - INFO - Run bot
+2023-05-03 14:01:19,407 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:01:19,407 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:01:22,840 - linkedin functions - ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0043DCE3+50899]
+	(No symbol) [0x003CE111]
+	(No symbol) [0x002D5588]
+	(No symbol) [0x003008F9]
+	(No symbol) [0x00300AFB]
+	(No symbol) [0x0032F902]
+	(No symbol) [0x0031B944]
+	(No symbol) [0x0032E01C]
+	(No symbol) [0x0031B6F6]
+	(No symbol) [0x002F7708]
+	(No symbol) [0x002F886D]
+	GetHandleVerifier [0x006A3EAE+2566302]
+	GetHandleVerifier [0x006D92B1+2784417]
+	GetHandleVerifier [0x006D327C+2759788]
+	GetHandleVerifier [0x004D5740+672048]
+	(No symbol) [0x003D8872]
+	(No symbol) [0x003D41C8]
+	(No symbol) [0x003D42AB]
+	(No symbol) [0x003C71B7]
+	BaseThreadInitThunk [0x77900099+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47B3E+238]
+
+2023-05-03 14:01:22,840 - linkedin functions - ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0043DCE3+50899]
+	(No symbol) [0x003CE111]
+	(No symbol) [0x002D5588]
+	(No symbol) [0x003008F9]
+	(No symbol) [0x00300AFB]
+	(No symbol) [0x0032F902]
+	(No symbol) [0x0031B944]
+	(No symbol) [0x0032E01C]
+	(No symbol) [0x0031B6F6]
+	(No symbol) [0x002F7708]
+	(No symbol) [0x002F886D]
+	GetHandleVerifier [0x006A3EAE+2566302]
+	GetHandleVerifier [0x006D92B1+2784417]
+	GetHandleVerifier [0x006D327C+2759788]
+	GetHandleVerifier [0x004D5740+672048]
+	(No symbol) [0x003D8872]
+	(No symbol) [0x003D41C8]
+	(No symbol) [0x003D42AB]
+	(No symbol) [0x003C71B7]
+	BaseThreadInitThunk [0x77900099+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47B3E+238]
+
+2023-05-03 14:01:22,864 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:01:22,864 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:01:22,872 - __main__ - INFO - ---END---
+2023-05-03 14:01:41,998 - config_parser - INFO - reading json
+2023-05-03 14:01:42,001 - config_parser - INFO - reading json
+2023-05-03 14:01:42,003 - __main__ - INFO - ---START---
+2023-05-03 14:01:42,004 - __main__ - INFO - Loading config file
+2023-05-03 14:01:42,005 - config_parser - INFO - reading json
+2023-05-03 14:01:42,006 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:01:42,007 - __main__ - INFO - Create account manager
+2023-05-03 14:01:43,219 - __main__ - INFO - Run bot
+2023-05-03 14:01:43,263 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:01:43,263 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:01:47,330 - linkedin functions - ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0043DCE3+50899]
+	(No symbol) [0x003CE111]
+	(No symbol) [0x002D5588]
+	(No symbol) [0x003008F9]
+	(No symbol) [0x00300AFB]
+	(No symbol) [0x0032F902]
+	(No symbol) [0x0031B944]
+	(No symbol) [0x0032E01C]
+	(No symbol) [0x0031B6F6]
+	(No symbol) [0x002F7708]
+	(No symbol) [0x002F886D]
+	GetHandleVerifier [0x006A3EAE+2566302]
+	GetHandleVerifier [0x006D92B1+2784417]
+	GetHandleVerifier [0x006D327C+2759788]
+	GetHandleVerifier [0x004D5740+672048]
+	(No symbol) [0x003D8872]
+	(No symbol) [0x003D41C8]
+	(No symbol) [0x003D42AB]
+	(No symbol) [0x003C71B7]
+	BaseThreadInitThunk [0x77900099+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47B3E+238]
+
+2023-05-03 14:01:47,330 - linkedin functions - ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0043DCE3+50899]
+	(No symbol) [0x003CE111]
+	(No symbol) [0x002D5588]
+	(No symbol) [0x003008F9]
+	(No symbol) [0x00300AFB]
+	(No symbol) [0x0032F902]
+	(No symbol) [0x0031B944]
+	(No symbol) [0x0032E01C]
+	(No symbol) [0x0031B6F6]
+	(No symbol) [0x002F7708]
+	(No symbol) [0x002F886D]
+	GetHandleVerifier [0x006A3EAE+2566302]
+	GetHandleVerifier [0x006D92B1+2784417]
+	GetHandleVerifier [0x006D327C+2759788]
+	GetHandleVerifier [0x004D5740+672048]
+	(No symbol) [0x003D8872]
+	(No symbol) [0x003D41C8]
+	(No symbol) [0x003D42AB]
+	(No symbol) [0x003C71B7]
+	BaseThreadInitThunk [0x77900099+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47B3E+238]
+
+2023-05-03 14:01:47,404 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:01:47,404 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:01:47,411 - __main__ - INFO - ---END---
+2023-05-03 14:02:03,108 - config_parser - INFO - reading json
+2023-05-03 14:02:03,111 - config_parser - INFO - reading json
+2023-05-03 14:02:03,113 - __main__ - INFO - ---START---
+2023-05-03 14:02:03,114 - __main__ - INFO - Loading config file
+2023-05-03 14:02:03,115 - config_parser - INFO - reading json
+2023-05-03 14:02:03,116 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:02:03,116 - __main__ - INFO - Create account manager
+2023-05-03 14:02:04,267 - __main__ - INFO - Run bot
+2023-05-03 14:02:04,330 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:02:04,330 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:02:08,515 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by_id'
+2023-05-03 14:02:08,515 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by_id'
+2023-05-03 14:02:08,518 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:02:08,518 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:02:08,522 - __main__ - INFO - ---END---
+2023-05-03 14:02:32,547 - config_parser - INFO - reading json
+2023-05-03 14:02:32,551 - config_parser - INFO - reading json
+2023-05-03 14:02:32,553 - __main__ - INFO - ---START---
+2023-05-03 14:02:32,554 - __main__ - INFO - Loading config file
+2023-05-03 14:02:32,555 - config_parser - INFO - reading json
+2023-05-03 14:02:32,556 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:02:32,557 - __main__ - INFO - Create account manager
+2023-05-03 14:02:33,835 - __main__ - INFO - Run bot
+2023-05-03 14:02:33,843 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:02:33,843 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:02:38,448 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by_id'
+2023-05-03 14:02:38,448 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by_id'
+2023-05-03 14:02:38,483 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:02:38,483 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:02:38,485 - __main__ - INFO - ---END---
+2023-05-03 14:04:14,506 - config_parser - INFO - reading json
+2023-05-03 14:04:14,509 - config_parser - INFO - reading json
+2023-05-03 14:04:14,511 - __main__ - INFO - ---START---
+2023-05-03 14:04:14,511 - __main__ - INFO - Loading config file
+2023-05-03 14:04:14,512 - config_parser - INFO - reading json
+2023-05-03 14:04:14,513 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:04:14,515 - __main__ - INFO - Create account manager
+2023-05-03 14:04:15,686 - __main__ - INFO - Run bot
+2023-05-03 14:04:15,689 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:04:15,689 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:04:19,945 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
+2023-05-03 14:04:19,945 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
+2023-05-03 14:04:19,951 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:04:19,951 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:04:19,958 - __main__ - INFO - ---END---
+2023-05-03 14:04:43,032 - config_parser - INFO - reading json
+2023-05-03 14:04:43,035 - config_parser - INFO - reading json
+2023-05-03 14:04:43,036 - __main__ - INFO - ---START---
+2023-05-03 14:04:43,037 - __main__ - INFO - Loading config file
+2023-05-03 14:04:43,038 - config_parser - INFO - reading json
+2023-05-03 14:04:43,039 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:04:43,040 - __main__ - INFO - Create account manager
+2023-05-03 14:04:44,186 - __main__ - INFO - Run bot
+2023-05-03 14:04:44,187 - __main__ - INFO - ---END---
+2023-05-03 14:04:53,578 - config_parser - INFO - reading json
+2023-05-03 14:04:53,583 - config_parser - INFO - reading json
+2023-05-03 14:04:53,586 - __main__ - INFO - ---START---
+2023-05-03 14:04:53,586 - __main__ - INFO - Loading config file
+2023-05-03 14:04:53,587 - config_parser - INFO - reading json
+2023-05-03 14:04:53,588 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:04:53,589 - __main__ - INFO - Create account manager
+2023-05-03 14:04:54,759 - __main__ - INFO - Run bot
+2023-05-03 14:04:54,806 - __main__ - INFO - ---END---
+2023-05-03 14:05:08,351 - config_parser - INFO - reading json
+2023-05-03 14:05:08,357 - config_parser - INFO - reading json
+2023-05-03 14:05:08,361 - __main__ - INFO - ---START---
+2023-05-03 14:05:08,365 - __main__ - INFO - Loading config file
+2023-05-03 14:05:08,367 - config_parser - INFO - reading json
+2023-05-03 14:05:08,371 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:05:08,373 - __main__ - INFO - Create account manager
+2023-05-03 14:05:09,536 - __main__ - INFO - Run bot
+2023-05-03 14:05:09,602 - __main__ - INFO - ---END---
+2023-05-03 14:05:14,423 - config_parser - INFO - reading json
+2023-05-03 14:05:14,429 - config_parser - INFO - reading json
+2023-05-03 14:05:14,432 - __main__ - INFO - ---START---
+2023-05-03 14:05:14,435 - __main__ - INFO - Loading config file
+2023-05-03 14:05:14,437 - config_parser - INFO - reading json
+2023-05-03 14:05:14,440 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:05:14,446 - __main__ - INFO - Create account manager
+2023-05-03 14:05:15,629 - __main__ - INFO - Run bot
+2023-05-03 14:05:15,636 - __main__ - INFO - ---END---
+2023-05-03 14:06:01,249 - config_parser - INFO - reading json
+2023-05-03 14:06:01,254 - config_parser - INFO - reading json
+2023-05-03 14:06:01,260 - __main__ - INFO - ---START---
+2023-05-03 14:06:01,263 - __main__ - INFO - Loading config file
+2023-05-03 14:06:01,267 - config_parser - INFO - reading json
+2023-05-03 14:06:01,271 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:06:01,274 - __main__ - INFO - Create account manager
+2023-05-03 14:06:01,279 - __main__ - ERROR - name 'webdriver' is not defined
+2023-05-03 14:06:27,421 - config_parser - INFO - reading json
+2023-05-03 14:06:27,436 - config_parser - INFO - reading json
+2023-05-03 14:06:27,439 - __main__ - INFO - ---START---
+2023-05-03 14:06:27,441 - __main__ - INFO - Loading config file
+2023-05-03 14:06:27,446 - config_parser - INFO - reading json
+2023-05-03 14:06:27,449 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:06:27,452 - __main__ - INFO - Create account manager
+2023-05-03 14:06:28,653 - __main__ - INFO - Run bot
+2023-05-03 14:06:28,683 - __main__ - INFO - ---END---
+2023-05-03 14:06:43,229 - config_parser - INFO - reading json
+2023-05-03 14:06:43,233 - config_parser - INFO - reading json
+2023-05-03 14:06:43,237 - __main__ - INFO - ---START---
+2023-05-03 14:06:43,240 - __main__ - INFO - Loading config file
+2023-05-03 14:06:43,243 - config_parser - INFO - reading json
+2023-05-03 14:06:43,248 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:06:43,251 - __main__ - INFO - Create account manager
+2023-05-03 14:06:44,405 - __main__ - INFO - Run bot
+2023-05-03 14:06:44,464 - __main__ - ERROR - run() missing 1 required positional argument: 'driver'
+2023-05-03 14:06:51,802 - config_parser - INFO - reading json
+2023-05-03 14:06:51,813 - config_parser - INFO - reading json
+2023-05-03 14:06:51,816 - __main__ - INFO - ---START---
+2023-05-03 14:06:51,819 - __main__ - INFO - Loading config file
+2023-05-03 14:06:51,821 - config_parser - INFO - reading json
+2023-05-03 14:06:51,823 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:06:51,826 - __main__ - INFO - Create account manager
+2023-05-03 14:06:52,982 - __main__ - INFO - Run bot
+2023-05-03 14:06:52,986 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:06:52,986 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:06:57,162 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
+2023-05-03 14:06:57,162 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
+2023-05-03 14:06:57,167 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:06:57,167 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:06:57,173 - __main__ - INFO - ---END---
+2023-05-03 14:07:18,738 - config_parser - INFO - reading json
+2023-05-03 14:07:18,742 - config_parser - INFO - reading json
+2023-05-03 14:07:18,744 - __main__ - INFO - ---START---
+2023-05-03 14:07:18,745 - __main__ - INFO - Loading config file
+2023-05-03 14:07:18,746 - config_parser - INFO - reading json
+2023-05-03 14:07:18,747 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:07:18,748 - __main__ - INFO - Create account manager
+2023-05-03 14:07:19,911 - __main__ - INFO - Run bot
+2023-05-03 14:07:19,970 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:07:19,970 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:07:24,122 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
+2023-05-03 14:07:24,122 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
+2023-05-03 14:07:24,173 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:07:24,173 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:07:24,175 - __main__ - INFO - ---END---
+2023-05-03 14:08:16,005 - config_parser - INFO - reading json
+2023-05-03 14:08:16,009 - config_parser - INFO - reading json
+2023-05-03 14:08:16,010 - __main__ - INFO - ---START---
+2023-05-03 14:08:16,012 - __main__ - INFO - Loading config file
+2023-05-03 14:08:16,013 - config_parser - INFO - reading json
+2023-05-03 14:08:16,014 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:08:16,015 - __main__ - INFO - Create account manager
+2023-05-03 14:08:17,249 - __main__ - INFO - Run bot
+2023-05-03 14:08:17,252 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:08:17,252 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:08:21,475 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
+2023-05-03 14:08:21,475 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
+2023-05-03 14:08:21,480 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:08:21,480 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:08:21,486 - __main__ - INFO - ---END---
+2023-05-03 14:09:18,701 - config_parser - INFO - reading json
+2023-05-03 14:09:18,704 - config_parser - INFO - reading json
+2023-05-03 14:09:18,706 - __main__ - INFO - ---START---
+2023-05-03 14:09:18,707 - __main__ - INFO - Loading config file
+2023-05-03 14:09:18,708 - config_parser - INFO - reading json
+2023-05-03 14:09:18,709 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:09:18,710 - __main__ - INFO - Create account manager
+2023-05-03 14:09:19,859 - __main__ - INFO - Run bot
+2023-05-03 14:09:19,862 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:09:19,862 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:09:24,664 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
+2023-05-03 14:09:24,664 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
+2023-05-03 14:09:24,714 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:09:24,714 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:09:24,716 - __main__ - INFO - ---END---
+2023-05-03 14:10:26,753 - config_parser - INFO - reading json
+2023-05-03 14:10:26,756 - config_parser - INFO - reading json
+2023-05-03 14:10:26,757 - __main__ - INFO - ---START---
+2023-05-03 14:10:26,759 - __main__ - INFO - Loading config file
+2023-05-03 14:10:26,760 - config_parser - INFO - reading json
+2023-05-03 14:10:26,761 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:10:26,762 - __main__ - INFO - Create account manager
+2023-05-03 14:10:27,980 - __main__ - INFO - Run bot
+2023-05-03 14:10:27,986 - linkedin functions - INFO - START linkedin bot
+2023-05-03 14:10:27,986 - linkedin functions - INFO - START linkedin bot
+2023-05-03 14:10:27,993 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:10:27,993 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:10:31,297 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
+2023-05-03 14:10:31,297 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
+2023-05-03 14:10:31,301 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:10:31,301 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:10:31,303 - linkedin functions - INFO - END linkedin bot
+2023-05-03 14:10:31,303 - linkedin functions - INFO - END linkedin bot
+2023-05-03 14:10:31,305 - __main__ - INFO - ---END---
+2023-05-03 14:10:46,195 - config_parser - INFO - reading json
+2023-05-03 14:10:46,198 - config_parser - INFO - reading json
+2023-05-03 14:10:46,199 - __main__ - INFO - ---START---
+2023-05-03 14:10:46,201 - __main__ - INFO - Loading config file
+2023-05-03 14:10:46,206 - config_parser - INFO - reading json
+2023-05-03 14:10:46,208 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:10:46,213 - __main__ - INFO - Create account manager
+2023-05-03 14:10:47,368 - __main__ - INFO - Run bot
+2023-05-03 14:10:47,409 - __main__ - INFO - ---END---
+2023-05-03 14:10:57,902 - config_parser - INFO - reading json
+2023-05-03 14:10:57,907 - config_parser - INFO - reading json
+2023-05-03 14:11:03,942 - config_parser - INFO - reading json
+2023-05-03 14:11:03,949 - config_parser - INFO - reading json
+2023-05-03 14:11:10,734 - config_parser - INFO - reading json
+2023-05-03 14:11:10,739 - config_parser - INFO - reading json
+2023-05-03 14:11:10,742 - __main__ - INFO - ---START---
+2023-05-03 14:11:10,749 - __main__ - INFO - Loading config file
+2023-05-03 14:11:10,751 - config_parser - INFO - reading json
+2023-05-03 14:11:10,754 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:11:10,756 - __main__ - INFO - Create account manager
+2023-05-03 14:11:11,913 - __main__ - INFO - Run bot
+2023-05-03 14:11:11,917 - linkedin functions - INFO - START linkedin bot
+2023-05-03 14:11:11,917 - linkedin functions - INFO - START linkedin bot
+2023-05-03 14:11:11,923 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:11:11,923 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:11:16,065 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
+2023-05-03 14:11:16,065 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
+2023-05-03 14:11:16,119 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:11:16,119 - linkedin functions - INFO - FAILED logging
+2023-05-03 14:11:16,124 - linkedin functions - INFO - END linkedin bot
+2023-05-03 14:11:16,124 - linkedin functions - INFO - END linkedin bot
+2023-05-03 14:11:16,131 - __main__ - INFO - ---END---
+2023-05-03 14:12:31,541 - config_parser - INFO - reading json
+2023-05-03 14:12:31,545 - config_parser - INFO - reading json
+2023-05-03 14:12:31,547 - __main__ - INFO - ---START---
+2023-05-03 14:12:31,548 - __main__ - INFO - Loading config file
+2023-05-03 14:12:31,549 - config_parser - INFO - reading json
+2023-05-03 14:12:31,550 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:12:31,551 - __main__ - INFO - Create account manager
+2023-05-03 14:12:32,698 - __main__ - INFO - Run bot
+2023-05-03 14:12:32,699 - __main__ - ERROR - name 'login' is not defined
+2023-05-03 14:12:43,488 - config_parser - INFO - reading json
+2023-05-03 14:12:43,491 - config_parser - INFO - reading json
+2023-05-03 14:12:43,493 - __main__ - INFO - ---START---
+2023-05-03 14:12:43,494 - __main__ - INFO - Loading config file
+2023-05-03 14:12:43,495 - config_parser - INFO - reading json
+2023-05-03 14:12:43,496 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:12:43,497 - __main__ - INFO - Create account manager
+2023-05-03 14:12:44,650 - __main__ - INFO - Run bot
+2023-05-03 14:12:44,706 - __main__ - ERROR - name 'login' is not defined
+2023-05-03 14:13:16,814 - config_parser - INFO - reading json
+2023-05-03 14:13:16,820 - config_parser - INFO - reading json
+2023-05-03 14:13:31,119 - config_parser - INFO - reading json
+2023-05-03 14:13:31,126 - config_parser - INFO - reading json
+2023-05-03 14:13:31,129 - __main__ - INFO - ---START---
+2023-05-03 14:13:31,132 - __main__ - INFO - Loading config file
+2023-05-03 14:13:31,134 - config_parser - INFO - reading json
+2023-05-03 14:13:31,137 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:13:31,139 - __main__ - INFO - Create account manager
+2023-05-03 14:13:32,283 - __main__ - INFO - Run bot
+2023-05-03 14:13:59,901 - config_parser - INFO - reading json
+2023-05-03 14:13:59,905 - config_parser - INFO - reading json
+2023-05-03 14:13:59,909 - __main__ - INFO - ---START---
+2023-05-03 14:13:59,912 - __main__ - INFO - Loading config file
+2023-05-03 14:13:59,914 - config_parser - INFO - reading json
+2023-05-03 14:13:59,917 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:13:59,920 - __main__ - INFO - Create account manager
+2023-05-03 14:14:01,140 - __main__ - INFO - Run bot
+2023-05-03 14:14:01,172 - __main__ - ERROR - name 'logger' is not defined
+2023-05-03 14:16:03,671 - config_parser - INFO - reading json
+2023-05-03 14:16:03,674 - config_parser - INFO - reading json
+2023-05-03 14:16:03,675 - __main__ - INFO - ---START---
+2023-05-03 14:16:03,677 - __main__ - INFO - Loading config file
+2023-05-03 14:16:03,678 - config_parser - INFO - reading json
+2023-05-03 14:16:03,679 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:16:03,680 - __main__ - INFO - Create account manager
+2023-05-03 14:16:04,832 - __main__ - INFO - Run bot
+2023-05-03 14:16:04,869 - __main__ - ERROR - name 'login' is not defined
+2023-05-03 14:17:03,976 - config_parser - INFO - reading json
+2023-05-03 14:17:03,983 - config_parser - INFO - reading json
+2023-05-03 14:17:03,985 - __main__ - INFO - ---START---
+2023-05-03 14:17:03,986 - __main__ - INFO - Loading config file
+2023-05-03 14:17:03,986 - config_parser - INFO - reading json
+2023-05-03 14:17:03,987 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:17:03,988 - __main__ - INFO - Create account manager
+2023-05-03 14:17:05,257 - __main__ - INFO - Run bot
+2023-05-03 14:17:05,321 - __main__ - ERROR - name 'login' is not defined
+2023-05-03 14:17:22,227 - config_parser - INFO - reading json
+2023-05-03 14:17:22,231 - config_parser - INFO - reading json
+2023-05-03 14:17:22,232 - __main__ - INFO - ---START---
+2023-05-03 14:17:22,234 - __main__ - INFO - Loading config file
+2023-05-03 14:17:22,234 - config_parser - INFO - reading json
+2023-05-03 14:17:22,235 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:17:22,236 - __main__ - INFO - Create account manager
+2023-05-03 14:17:23,434 - __main__ - INFO - Run bot
+2023-05-03 14:17:23,475 - __main__ - INFO - ---END---
+2023-05-03 14:17:51,032 - config_parser - INFO - reading json
+2023-05-03 14:17:51,036 - config_parser - INFO - reading json
+2023-05-03 14:17:51,037 - __main__ - INFO - ---START---
+2023-05-03 14:17:51,038 - __main__ - INFO - Loading config file
+2023-05-03 14:17:51,039 - config_parser - INFO - reading json
+2023-05-03 14:17:51,040 - __main__ - INFO - Config file loaded successfully
+2023-05-03 14:17:51,041 - __main__ - INFO - Create account manager
+2023-05-03 14:17:52,250 - __main__ - INFO - Run bot
+2023-05-03 14:17:52,252 - linkedin functions - INFO - START linkedin bot
+2023-05-03 14:17:52,252 - linkedin functions - INFO - START linkedin bot
+2023-05-03 14:17:52,255 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:17:52,255 - linkedin functions - INFO - START linkedin login
+2023-05-03 14:17:58,500 - linkedin functions - INFO - END linkedin login
+2023-05-03 14:17:58,500 - linkedin functions - INFO - END linkedin login
+2023-05-03 14:17:58,566 - linkedin functions - INFO - END linkedin bot
+2023-05-03 14:17:58,566 - linkedin functions - INFO - END linkedin bot
+2023-05-03 14:17:58,568 - __main__ - INFO - ---END---
+2023-05-03 15:10:36,940 - config_parser - INFO - reading json
+2023-05-03 15:10:36,940 - config_parser - INFO - reading json
+2023-05-03 15:10:36,940 - __main__ - INFO - ---START---
+2023-05-03 15:10:36,940 - __main__ - INFO - Loading config file
+2023-05-03 15:10:36,940 - config_parser - INFO - reading json
+2023-05-03 15:10:36,940 - __main__ - INFO - Config file loaded successfully
+2023-05-03 15:10:36,940 - __main__ - INFO - Create account manager
+2023-05-03 15:10:38,704 - __main__ - INFO - Run bot
+2023-05-03 15:10:38,704 - linkedin functions - INFO - START linkedin bot
+2023-05-03 15:10:38,704 - linkedin functions - INFO - START linkedin bot
+2023-05-03 15:10:38,712 - linkedin functions - INFO - START linkedin login
+2023-05-03 15:10:38,712 - linkedin functions - INFO - START linkedin login
+2023-05-03 15:10:39,062 - linkedin functions - ERROR - Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010FDCE3+50899]
+	(No symbol) [0x0108E111]
+	(No symbol) [0x00F95588]
+	(No symbol) [0x00F91D87]
+	(No symbol) [0x00F88B45]
+	(No symbol) [0x00F89B1A]
+	(No symbol) [0x00F88E20]
+	(No symbol) [0x00F88275]
+	(No symbol) [0x00F8820C]
+	(No symbol) [0x00F86F06]
+	(No symbol) [0x00F87668]
+	(No symbol) [0x00F96D22]
+	(No symbol) [0x00FEE631]
+	(No symbol) [0x00FDB8FC]
+	(No symbol) [0x00FEE01C]
+	(No symbol) [0x00FDB6F6]
+	(No symbol) [0x00FB7708]
+	(No symbol) [0x00FB886D]
+	GetHandleVerifier [0x01363EAE+2566302]
+	GetHandleVerifier [0x013992B1+2784417]
+	GetHandleVerifier [0x0139327C+2759788]
+	GetHandleVerifier [0x01195740+672048]
+	(No symbol) [0x01098872]
+	(No symbol) [0x010941C8]
+	(No symbol) [0x010942AB]
+	(No symbol) [0x010871B7]
+	BaseThreadInitThunk [0x77900099+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47B3E+238]
+
+2023-05-03 15:10:39,062 - linkedin functions - ERROR - Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010FDCE3+50899]
+	(No symbol) [0x0108E111]
+	(No symbol) [0x00F95588]
+	(No symbol) [0x00F91D87]
+	(No symbol) [0x00F88B45]
+	(No symbol) [0x00F89B1A]
+	(No symbol) [0x00F88E20]
+	(No symbol) [0x00F88275]
+	(No symbol) [0x00F8820C]
+	(No symbol) [0x00F86F06]
+	(No symbol) [0x00F87668]
+	(No symbol) [0x00F96D22]
+	(No symbol) [0x00FEE631]
+	(No symbol) [0x00FDB8FC]
+	(No symbol) [0x00FEE01C]
+	(No symbol) [0x00FDB6F6]
+	(No symbol) [0x00FB7708]
+	(No symbol) [0x00FB886D]
+	GetHandleVerifier [0x01363EAE+2566302]
+	GetHandleVerifier [0x013992B1+2784417]
+	GetHandleVerifier [0x0139327C+2759788]
+	GetHandleVerifier [0x01195740+672048]
+	(No symbol) [0x01098872]
+	(No symbol) [0x010941C8]
+	(No symbol) [0x010942AB]
+	(No symbol) [0x010871B7]
+	BaseThreadInitThunk [0x77900099+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47B3E+238]
+
+2023-05-03 15:10:39,062 - __main__ - ERROR - Linkedin spam bot failed: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=112.0.5615.138)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x010FDCE3+50899]
+	(No symbol) [0x0108E111]
+	(No symbol) [0x00F95588]
+	(No symbol) [0x00F91D87]
+	(No symbol) [0x00F88B45]
+	(No symbol) [0x00F89B1A]
+	(No symbol) [0x00F88E20]
+	(No symbol) [0x00F88275]
+	(No symbol) [0x00F8820C]
+	(No symbol) [0x00F86F06]
+	(No symbol) [0x00F87668]
+	(No symbol) [0x00F96D22]
+	(No symbol) [0x00FEE631]
+	(No symbol) [0x00FDB8FC]
+	(No symbol) [0x00FEE01C]
+	(No symbol) [0x00FDB6F6]
+	(No symbol) [0x00FB7708]
+	(No symbol) [0x00FB886D]
+	GetHandleVerifier [0x01363EAE+2566302]
+	GetHandleVerifier [0x013992B1+2784417]
+	GetHandleVerifier [0x0139327C+2759788]
+	GetHandleVerifier [0x01195740+672048]
+	(No symbol) [0x01098872]
+	(No symbol) [0x010941C8]
+	(No symbol) [0x010942AB]
+	(No symbol) [0x010871B7]
+	BaseThreadInitThunk [0x77900099+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47B3E+238]
+
+2023-05-03 16:16:58,505 - config_parser - INFO - reading json
+2023-05-03 16:16:58,544 - config_parser - INFO - reading json
+2023-05-03 16:16:58,546 - __main__ - INFO - ---START---
+2023-05-03 16:16:58,547 - __main__ - INFO - Loading config file
+2023-05-03 16:16:58,549 - config_parser - INFO - reading json
+2023-05-03 16:16:58,550 - __main__ - INFO - Config file loaded successfully
+2023-05-03 16:16:58,552 - __main__ - INFO - Create account manager
+2023-05-03 16:16:58,553 - __main__ - INFO - ---END---
