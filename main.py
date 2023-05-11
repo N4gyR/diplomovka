@@ -1,5 +1,12 @@
-from selenium.webdriver.chrome.options import Options
+from selenium import webdriver
 from selenium.webdriver import Chrome
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions as ec
+from time import sleep
 # Import modules
 from utils.logger import Logger
 from utils.config_parser import read_json
@@ -14,26 +21,29 @@ def main():
         logger.info("---START---")
 
         # Load config file
-        logger.info("Loading config file")
+        logger.info("START loading config file")
         config_dic = read_json("config.json")
         consts = Constants(config_dic)
-        logger.info("Config file loaded successfully")
+        logger.info("END loading config file")
 
         # Create account manager
         logger.info("Create account manager")
         ##account_manager = AccountManager(config_dic['ACCOUNTS'])
 
-##        # Start driver
-##        options = Options()
-##        options.add_argument("--disable-notifications")
-##        options.add_argument("--start-maximized")
-##        driver = Chrome(executable_path=consts.chromedriver_path, options=options)
-##
-##        # Run LinkedIn bot
-##        logger.info("Run bot")
-##        linkedin_bot = LinkedinSpamBot()
-##        linkedin_bot.run(driver)
+        # Start driver
+        options = Options()
+        options.add_argument("--disable-notifications")
+        options.add_argument("--start-maximized")
+        options.add_experimental_option("excludeSwitches", ["enable-automation"]) 
+        options.add_experimental_option('useAutomationExtension', False) 
+        webdriver = Chrome(options=options, service=Service(ChromeDriverManager().install()))
 
+        # Run LinkedIn bot
+        linkedin_bot = LinkedinSpamBot()
+        logger.info("START bot.run()")
+        linkedin_bot.run(webdriver)
+        logger.info("END bot.run()")
+        sleep(10)
 
         logger.info("---END---")
     except Exception as exc:

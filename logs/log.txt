@@ -1,622 +1,621 @@
-2023-05-03 14:00:20,340 - config_parser - INFO - reading json
-2023-05-03 14:00:20,343 - config_parser - INFO - reading json
-2023-05-03 14:00:20,345 - __main__ - INFO - ---START---
-2023-05-03 14:00:20,345 - __main__ - INFO - Loading config file
-2023-05-03 14:00:20,346 - config_parser - INFO - reading json
-2023-05-03 14:00:20,348 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:00:20,349 - __main__ - INFO - Create account manager
-2023-05-03 14:00:21,578 - __main__ - INFO - Run bot
-2023-05-03 14:00:21,588 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:00:21,588 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:00:24,882 - linkedin functions - ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
-  (Session info: chrome=112.0.5615.138)
+2023-05-11 14:58:25,972 - config_parser - INFO - reading json
+2023-05-11 14:58:25,981 - config_parser - INFO - reading json
+2023-05-11 14:58:25,982 - __main__ - INFO - ---START---
+2023-05-11 14:58:25,983 - __main__ - INFO - Loading config file
+2023-05-11 14:58:25,984 - config_parser - INFO - reading json
+2023-05-11 14:58:25,985 - __main__ - INFO - Config file loaded successfully
+2023-05-11 14:58:25,986 - __main__ - INFO - Create account manager
+2023-05-11 14:58:25,987 - __main__ - INFO - ---END---
+2023-05-11 15:00:38,763 - config_parser - INFO - reading json
+2023-05-11 15:00:38,772 - config_parser - INFO - reading json
+2023-05-11 15:00:38,773 - __main__ - INFO - ---START---
+2023-05-11 15:00:38,774 - __main__ - INFO - Create account manager
+2023-05-11 15:00:38,778 - __main__ - INFO - ---END---
+2023-05-11 15:02:03,998 - __main__ - INFO - ---START---
+2023-05-11 15:02:04,000 - __main__ - INFO - Create account manager
+2023-05-11 15:02:04,001 - __main__ - INFO - ---END---
+2023-05-11 15:02:09,603 - config_parser - INFO - reading json
+2023-05-11 15:02:09,606 - config_parser - INFO - reading json
+2023-05-11 15:02:09,608 - __main__ - INFO - ---START---
+2023-05-11 15:02:09,609 - __main__ - INFO - Create account manager
+2023-05-11 15:02:09,610 - __main__ - INFO - ---END---
+2023-05-11 15:02:34,130 - __main__ - INFO - ---START---
+2023-05-11 15:02:34,134 - __main__ - INFO - Create account manager
+2023-05-11 15:02:34,137 - __main__ - INFO - ---END---
+2023-05-11 15:05:10,545 - config_parser - INFO - reading json
+2023-05-11 15:05:10,553 - __main__ - INFO - ---START---
+2023-05-11 15:05:10,555 - __main__ - INFO - Create account manager
+2023-05-11 15:05:10,558 - __main__ - INFO - ---END---
+2023-05-11 15:05:26,957 - __main__ - INFO - ---START---
+2023-05-11 15:05:26,965 - __main__ - INFO - Create account manager
+2023-05-11 15:05:26,968 - __main__ - INFO - ---END---
+2023-05-11 15:06:18,963 - config_parser - INFO - reading json
+2023-05-11 15:06:18,975 - config_parser - INFO - reading json
+2023-05-11 15:06:18,977 - __main__ - INFO - ---START---
+2023-05-11 15:06:18,980 - __main__ - INFO - Create account manager
+2023-05-11 15:06:18,982 - __main__ - INFO - ---END---
+2023-05-11 15:07:18,036 - __main__ - INFO - ---START---
+2023-05-11 15:07:18,040 - __main__ - INFO - Loading config file
+2023-05-11 15:07:18,042 - __main__ - INFO - Config file loaded successfully
+2023-05-11 15:07:18,042 - __main__ - INFO - Create account manager
+2023-05-11 15:07:18,043 - __main__ - INFO - ---END---
+2023-05-11 15:09:44,540 - config_parser - INFO - reading json
+2023-05-11 15:09:44,545 - config_parser - INFO - reading json
+2023-05-11 15:09:44,550 - __main__ - INFO - ---START---
+2023-05-11 15:09:44,554 - __main__ - INFO - Loading config file
+2023-05-11 15:09:44,556 - config_parser - INFO - reading json
+2023-05-11 15:09:44,557 - __main__ - INFO - Config file loaded successfully
+2023-05-11 15:09:44,558 - __main__ - INFO - Create account manager
+2023-05-11 15:09:44,559 - __main__ - INFO - ---END---
+2023-05-11 15:10:35,073 - config_parser - INFO - reading json
+2023-05-11 15:10:35,076 - config_parser - INFO - json read successfully
+2023-05-11 15:10:35,077 - config_parser - INFO - reading json
+2023-05-11 15:10:35,078 - config_parser - INFO - json read successfully
+2023-05-11 15:10:35,080 - __main__ - INFO - ---START---
+2023-05-11 15:10:35,082 - __main__ - INFO - Loading config file
+2023-05-11 15:10:35,083 - config_parser - INFO - reading json
+2023-05-11 15:10:35,084 - config_parser - INFO - json read successfully
+2023-05-11 15:10:35,084 - __main__ - INFO - Config file loaded successfully
+2023-05-11 15:10:35,085 - __main__ - INFO - Create account manager
+2023-05-11 15:10:35,086 - __main__ - INFO - ---END---
+2023-05-11 15:12:47,106 - linkedin functions - INFO - Loading config file
+2023-05-11 15:12:47,108 - config_parser - INFO - reading json
+2023-05-11 15:12:47,110 - config_parser - INFO - json read successfully
+2023-05-11 15:12:47,111 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:12:47,112 - linkedin functions - INFO - Loading config file
+2023-05-11 15:12:47,112 - linkedin functions - INFO - Loading config file
+2023-05-11 15:12:47,114 - config_parser - INFO - reading json
+2023-05-11 15:12:47,115 - config_parser - INFO - json read successfully
+2023-05-11 15:12:47,116 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:12:47,116 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:12:47,118 - __main__ - INFO - ---START---
+2023-05-11 15:12:47,119 - __main__ - INFO - Loading config file
+2023-05-11 15:12:47,120 - config_parser - INFO - reading json
+2023-05-11 15:12:47,121 - config_parser - INFO - json read successfully
+2023-05-11 15:12:47,122 - __main__ - INFO - Config file loaded successfully
+2023-05-11 15:12:47,123 - __main__ - INFO - Create account manager
+2023-05-11 15:12:47,124 - __main__ - INFO - ---END---
+2023-05-11 15:14:47,799 - linkedin functions - INFO - Loading config file
+2023-05-11 15:14:47,802 - config_parser - INFO - reading json
+2023-05-11 15:14:47,803 - config_parser - INFO - json read successfully
+2023-05-11 15:14:47,803 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:14:47,804 - linkedin functions - INFO - Loading config file
+2023-05-11 15:14:47,804 - linkedin functions - INFO - Loading config file
+2023-05-11 15:14:47,806 - config_parser - INFO - reading json
+2023-05-11 15:14:47,807 - config_parser - INFO - json read successfully
+2023-05-11 15:14:47,808 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:14:47,808 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:14:47,810 - __main__ - INFO - ---START---
+2023-05-11 15:14:47,812 - __main__ - INFO - Loading config file
+2023-05-11 15:14:47,813 - config_parser - INFO - reading json
+2023-05-11 15:14:47,814 - config_parser - INFO - json read successfully
+2023-05-11 15:14:47,816 - __main__ - INFO - Config file loaded successfully
+2023-05-11 15:14:47,818 - __main__ - INFO - Create account manager
+2023-05-11 15:14:47,820 - __main__ - INFO - ---END---
+2023-05-11 15:15:26,785 - linkedin functions - INFO - Loading config file
+2023-05-11 15:15:26,789 - config_parser - INFO - reading json
+2023-05-11 15:15:26,792 - config_parser - INFO - json read successfully
+2023-05-11 15:15:26,794 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:15:26,797 - linkedin functions - INFO - Loading config file
+2023-05-11 15:15:26,797 - linkedin functions - INFO - Loading config file
+2023-05-11 15:15:26,802 - config_parser - INFO - reading json
+2023-05-11 15:15:26,805 - config_parser - INFO - json read successfully
+2023-05-11 15:15:26,807 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:15:26,807 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:15:26,812 - __main__ - INFO - ---START---
+2023-05-11 15:15:26,817 - __main__ - INFO - Loading config file
+2023-05-11 15:15:26,820 - config_parser - INFO - reading json
+2023-05-11 15:15:26,823 - config_parser - INFO - json read successfully
+2023-05-11 15:15:26,825 - __main__ - INFO - Config file loaded successfully
+2023-05-11 15:15:26,827 - __main__ - INFO - Create account manager
+2023-05-11 15:15:26,829 - __main__ - INFO - ---END---
+2023-05-11 15:15:40,706 - linkedin functions - INFO - Loading config file
+2023-05-11 15:15:40,716 - config_parser - INFO - reading json
+2023-05-11 15:15:40,719 - config_parser - INFO - json read successfully
+2023-05-11 15:15:40,721 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:15:40,724 - linkedin functions - INFO - Loading config file
+2023-05-11 15:15:40,724 - linkedin functions - INFO - Loading config file
+2023-05-11 15:15:40,730 - config_parser - INFO - reading json
+2023-05-11 15:15:40,733 - config_parser - INFO - json read successfully
+2023-05-11 15:15:40,735 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:15:40,735 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:15:40,741 - __main__ - INFO - ---START---
+2023-05-11 15:15:40,743 - __main__ - INFO - Loading config file
+2023-05-11 15:15:40,746 - config_parser - INFO - reading json
+2023-05-11 15:15:40,748 - config_parser - INFO - json read successfully
+2023-05-11 15:15:40,753 - __main__ - INFO - Config file loaded successfully
+2023-05-11 15:15:40,755 - __main__ - INFO - Create account manager
+2023-05-11 15:15:40,760 - __main__ - INFO - ---END---
+2023-05-11 15:16:04,553 - linkedin functions - INFO - Loading config file
+2023-05-11 15:16:04,557 - config_parser - INFO - reading json
+2023-05-11 15:16:04,560 - config_parser - INFO - json read successfully
+2023-05-11 15:16:04,562 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:16:04,569 - linkedin spam bot - INFO - Loading config file
+2023-05-11 15:16:04,572 - config_parser - INFO - reading json
+2023-05-11 15:16:04,575 - config_parser - INFO - json read successfully
+2023-05-11 15:16:04,577 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 15:16:04,579 - __main__ - INFO - ---START---
+2023-05-11 15:16:04,585 - __main__ - INFO - Loading config file
+2023-05-11 15:16:04,588 - config_parser - INFO - reading json
+2023-05-11 15:16:04,591 - config_parser - INFO - json read successfully
+2023-05-11 15:16:04,593 - __main__ - INFO - Config file loaded successfully
+2023-05-11 15:16:04,595 - __main__ - INFO - Create account manager
+2023-05-11 15:16:04,601 - __main__ - INFO - ---END---
+2023-05-11 15:17:45,415 - linkedin functions - INFO - Loading config file
+2023-05-11 15:17:45,427 - config_parser - INFO - reading json
+2023-05-11 15:17:45,429 - config_parser - INFO - json read successfully
+2023-05-11 15:17:45,430 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:17:45,432 - linkedin spam bot - INFO - Loading config file
+2023-05-11 15:17:45,432 - config_parser - INFO - reading json
+2023-05-11 15:17:45,433 - config_parser - INFO - json read successfully
+2023-05-11 15:17:45,434 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 15:17:45,436 - __main__ - INFO - ---START---
+2023-05-11 15:17:45,436 - __main__ - INFO - Loading config file
+2023-05-11 15:17:45,437 - config_parser - INFO - reading json
+2023-05-11 15:17:45,438 - config_parser - INFO - json read successfully
+2023-05-11 15:17:45,439 - __main__ - INFO - Config file loaded successfully
+2023-05-11 15:17:45,439 - __main__ - INFO - Create account manager
+2023-05-11 15:17:47,579 - __main__ - INFO - ---END---
+2023-05-11 15:18:59,306 - linkedin functions - INFO - Loading config file
+2023-05-11 15:18:59,348 - config_parser - INFO - reading json
+2023-05-11 15:18:59,349 - config_parser - INFO - json read successfully
+2023-05-11 15:18:59,349 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:18:59,351 - linkedin spam bot - INFO - Loading config file
+2023-05-11 15:18:59,352 - config_parser - INFO - reading json
+2023-05-11 15:18:59,354 - config_parser - INFO - json read successfully
+2023-05-11 15:18:59,356 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 15:18:59,359 - __main__ - INFO - ---START---
+2023-05-11 15:18:59,362 - __main__ - INFO - Loading config file
+2023-05-11 15:18:59,367 - config_parser - INFO - reading json
+2023-05-11 15:18:59,369 - config_parser - INFO - json read successfully
+2023-05-11 15:18:59,371 - __main__ - INFO - Config file loaded successfully
+2023-05-11 15:18:59,374 - __main__ - INFO - Create account manager
+2023-05-11 15:19:03,207 - __main__ - INFO - ---END---
+2023-05-11 15:19:24,651 - linkedin functions - INFO - Loading config file
+2023-05-11 15:19:24,655 - config_parser - INFO - reading json
+2023-05-11 15:19:24,658 - config_parser - INFO - json read successfully
+2023-05-11 15:19:24,661 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:19:24,664 - linkedin spam bot - INFO - Loading config file
+2023-05-11 15:19:24,667 - config_parser - INFO - reading json
+2023-05-11 15:19:24,670 - config_parser - INFO - json read successfully
+2023-05-11 15:19:24,673 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 15:19:24,675 - __main__ - INFO - ---START---
+2023-05-11 15:19:24,679 - __main__ - INFO - Loading config file
+2023-05-11 15:19:24,681 - config_parser - INFO - reading json
+2023-05-11 15:19:24,684 - config_parser - INFO - json read successfully
+2023-05-11 15:19:24,686 - __main__ - INFO - Config file loaded successfully
+2023-05-11 15:19:24,688 - __main__ - INFO - Create account manager
+2023-05-11 15:19:37,135 - __main__ - INFO - ---END---
+2023-05-11 15:19:57,606 - linkedin functions - INFO - Loading config file
+2023-05-11 15:19:57,608 - config_parser - INFO - reading json
+2023-05-11 15:19:57,609 - config_parser - INFO - json read successfully
+2023-05-11 15:19:57,610 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:19:57,611 - linkedin spam bot - INFO - Loading config file
+2023-05-11 15:19:57,613 - config_parser - INFO - reading json
+2023-05-11 15:19:57,614 - config_parser - INFO - json read successfully
+2023-05-11 15:19:57,615 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 15:19:57,616 - __main__ - INFO - ---START---
+2023-05-11 15:19:57,617 - __main__ - INFO - Loading config file
+2023-05-11 15:19:57,617 - config_parser - INFO - reading json
+2023-05-11 15:19:57,619 - config_parser - INFO - json read successfully
+2023-05-11 15:19:57,619 - __main__ - INFO - Config file loaded successfully
+2023-05-11 15:19:57,620 - __main__ - INFO - Create account manager
+2023-05-11 15:20:10,321 - __main__ - INFO - ---END---
+2023-05-11 15:20:28,875 - linkedin functions - INFO - Loading config file
+2023-05-11 15:20:28,877 - config_parser - INFO - reading json
+2023-05-11 15:20:28,879 - config_parser - INFO - json read successfully
+2023-05-11 15:20:28,880 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:20:28,881 - linkedin spam bot - INFO - Loading config file
+2023-05-11 15:20:28,882 - config_parser - INFO - reading json
+2023-05-11 15:20:28,883 - config_parser - INFO - json read successfully
+2023-05-11 15:20:28,884 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 15:20:28,886 - __main__ - INFO - ---START---
+2023-05-11 15:20:28,887 - __main__ - INFO - Loading config file
+2023-05-11 15:20:28,887 - config_parser - INFO - reading json
+2023-05-11 15:20:28,888 - config_parser - INFO - json read successfully
+2023-05-11 15:20:28,889 - __main__ - INFO - Config file loaded successfully
+2023-05-11 15:20:28,890 - __main__ - INFO - Create account manager
+2023-05-11 15:22:44,987 - linkedin functions - INFO - Loading config file
+2023-05-11 15:22:44,990 - config_parser - INFO - reading json
+2023-05-11 15:22:44,991 - config_parser - INFO - json read successfully
+2023-05-11 15:22:44,992 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:22:44,993 - linkedin spam bot - INFO - Loading config file
+2023-05-11 15:22:44,994 - config_parser - INFO - reading json
+2023-05-11 15:22:44,995 - config_parser - INFO - json read successfully
+2023-05-11 15:22:44,996 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 15:22:44,997 - __main__ - INFO - ---START---
+2023-05-11 15:22:44,998 - __main__ - INFO - START loading config file
+2023-05-11 15:22:44,999 - config_parser - INFO - reading json
+2023-05-11 15:22:45,000 - config_parser - INFO - json read successfully
+2023-05-11 15:22:45,001 - __main__ - INFO - END loading config file
+2023-05-11 15:22:45,002 - __main__ - INFO - Create account manager
+2023-05-11 15:22:47,692 - __main__ - INFO - START bot.run()
+2023-05-11 15:22:47,703 - __main__ - ERROR - name 'driver' is not defined
+2023-05-11 15:23:00,968 - linkedin functions - INFO - Loading config file
+2023-05-11 15:23:00,995 - config_parser - INFO - reading json
+2023-05-11 15:23:00,997 - config_parser - INFO - json read successfully
+2023-05-11 15:23:00,998 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:23:00,999 - linkedin spam bot - INFO - Loading config file
+2023-05-11 15:23:01,000 - config_parser - INFO - reading json
+2023-05-11 15:23:01,001 - config_parser - INFO - json read successfully
+2023-05-11 15:23:01,001 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 15:23:01,003 - __main__ - INFO - ---START---
+2023-05-11 15:23:01,003 - __main__ - INFO - START loading config file
+2023-05-11 15:23:01,004 - config_parser - INFO - reading json
+2023-05-11 15:23:01,007 - config_parser - INFO - json read successfully
+2023-05-11 15:23:01,009 - __main__ - INFO - END loading config file
+2023-05-11 15:23:01,012 - __main__ - INFO - Create account manager
+2023-05-11 15:23:03,610 - __main__ - INFO - START bot.run()
+2023-05-11 15:23:03,616 - linkedin spam bot - INFO - START linkedin bot
+2023-05-11 15:23:03,620 - linkedin functions - INFO - START linkedin login
+2023-05-11 15:23:04,019 - linkedin spam bot - ERROR - name 'sleep' is not defined
+2023-05-11 15:23:04,023 - __main__ - ERROR - Linkedin spam bot failed: name 'sleep' is not defined
+2023-05-11 15:23:24,341 - linkedin functions - INFO - Loading config file
+2023-05-11 15:23:24,345 - config_parser - INFO - reading json
+2023-05-11 15:23:24,351 - config_parser - INFO - json read successfully
+2023-05-11 15:23:24,353 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:23:24,359 - linkedin spam bot - INFO - Loading config file
+2023-05-11 15:23:24,361 - config_parser - INFO - reading json
+2023-05-11 15:23:24,367 - config_parser - INFO - json read successfully
+2023-05-11 15:23:24,370 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 15:23:24,375 - __main__ - INFO - ---START---
+2023-05-11 15:23:24,377 - __main__ - INFO - START loading config file
+2023-05-11 15:23:24,383 - config_parser - INFO - reading json
+2023-05-11 15:23:24,385 - config_parser - INFO - json read successfully
+2023-05-11 15:23:24,390 - __main__ - INFO - END loading config file
+2023-05-11 15:23:24,392 - __main__ - INFO - Create account manager
+2023-05-11 15:23:26,915 - __main__ - INFO - START bot.run()
+2023-05-11 15:23:26,919 - linkedin spam bot - INFO - START linkedin bot
+2023-05-11 15:23:26,921 - linkedin functions - INFO - START linkedin login
+2023-05-11 15:23:33,070 - linkedin functions - INFO - finding username
+2023-05-11 15:23:33,073 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
+2023-05-11 15:23:33,077 - linkedin functions - INFO - FAILED logging
+2023-05-11 15:23:33,079 - linkedin spam bot - INFO - END linkedin bot
+2023-05-11 15:23:33,083 - __main__ - INFO - ---END---
+2023-05-11 15:25:30,296 - linkedin functions - INFO - Loading config file
+2023-05-11 15:25:30,299 - config_parser - INFO - reading json
+2023-05-11 15:25:30,301 - config_parser - INFO - json read successfully
+2023-05-11 15:25:30,301 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:25:30,302 - linkedin spam bot - INFO - Loading config file
+2023-05-11 15:25:30,303 - config_parser - INFO - reading json
+2023-05-11 15:25:30,304 - config_parser - INFO - json read successfully
+2023-05-11 15:25:30,305 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 15:25:30,306 - __main__ - INFO - ---START---
+2023-05-11 15:25:30,307 - __main__ - INFO - START loading config file
+2023-05-11 15:25:30,308 - config_parser - INFO - reading json
+2023-05-11 15:25:30,310 - config_parser - INFO - json read successfully
+2023-05-11 15:25:30,310 - __main__ - INFO - END loading config file
+2023-05-11 15:25:30,311 - __main__ - INFO - Create account manager
+2023-05-11 15:25:32,858 - __main__ - INFO - START bot.run()
+2023-05-11 15:25:32,889 - linkedin spam bot - INFO - START linkedin bot
+2023-05-11 15:25:32,892 - linkedin functions - INFO - START linkedin login
+2023-05-11 15:25:38,857 - linkedin functions - INFO - finding username
+2023-05-11 15:25:38,860 - linkedin functions - ERROR - name 'By' is not defined
+2023-05-11 15:25:38,862 - linkedin functions - INFO - FAILED logging
+2023-05-11 15:25:38,866 - linkedin spam bot - INFO - END linkedin bot
+2023-05-11 15:25:38,869 - __main__ - INFO - ---END---
+2023-05-11 15:25:57,401 - linkedin functions - INFO - Loading config file
+2023-05-11 15:25:57,406 - config_parser - INFO - reading json
+2023-05-11 15:25:57,409 - config_parser - INFO - json read successfully
+2023-05-11 15:25:57,411 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:25:57,414 - linkedin spam bot - INFO - Loading config file
+2023-05-11 15:25:57,416 - config_parser - INFO - reading json
+2023-05-11 15:25:57,418 - config_parser - INFO - json read successfully
+2023-05-11 15:25:57,421 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 15:25:57,425 - __main__ - INFO - ---START---
+2023-05-11 15:25:57,429 - __main__ - INFO - START loading config file
+2023-05-11 15:25:57,434 - config_parser - INFO - reading json
+2023-05-11 15:25:57,436 - config_parser - INFO - json read successfully
+2023-05-11 15:25:57,438 - __main__ - INFO - END loading config file
+2023-05-11 15:25:57,441 - __main__ - INFO - Create account manager
+2023-05-11 15:25:59,881 - __main__ - INFO - START bot.run()
+2023-05-11 15:25:59,939 - linkedin spam bot - INFO - START linkedin bot
+2023-05-11 15:25:59,943 - linkedin functions - INFO - START linkedin login
+2023-05-11 15:26:06,020 - linkedin functions - INFO - finding username
+2023-05-11 15:26:06,049 - linkedin functions - ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=113.0.5672.92)
 Stacktrace:
 Backtrace:
-	GetHandleVerifier [0x0043DCE3+50899]
-	(No symbol) [0x003CE111]
-	(No symbol) [0x002D5588]
-	(No symbol) [0x003008F9]
-	(No symbol) [0x00300AFB]
-	(No symbol) [0x0032F902]
-	(No symbol) [0x0031B944]
-	(No symbol) [0x0032E01C]
-	(No symbol) [0x0031B6F6]
-	(No symbol) [0x002F7708]
-	(No symbol) [0x002F886D]
-	GetHandleVerifier [0x006A3EAE+2566302]
-	GetHandleVerifier [0x006D92B1+2784417]
-	GetHandleVerifier [0x006D327C+2759788]
-	GetHandleVerifier [0x004D5740+672048]
-	(No symbol) [0x003D8872]
-	(No symbol) [0x003D41C8]
-	(No symbol) [0x003D42AB]
-	(No symbol) [0x003C71B7]
-	BaseThreadInitThunk [0x77900099+25]
-	RtlGetAppContainerNamedObjectPath [0x77A47B6E+286]
-	RtlGetAppContainerNamedObjectPath [0x77A47B3E+238]
+	GetHandleVerifier [0x010E8893+48451]
+	(No symbol) [0x0107B8A1]
+	(No symbol) [0x00F85058]
+	(No symbol) [0x00FB0467]
+	(No symbol) [0x00FB069B]
+	(No symbol) [0x00FDDD92]
+	(No symbol) [0x00FCA304]
+	(No symbol) [0x00FDC482]
+	(No symbol) [0x00FCA0B6]
+	(No symbol) [0x00FA7E08]
+	(No symbol) [0x00FA8F2D]
+	GetHandleVerifier [0x01348E3A+2540266]
+	GetHandleVerifier [0x01388959+2801161]
+	GetHandleVerifier [0x0138295C+2776588]
+	GetHandleVerifier [0x01172280+612144]
+	(No symbol) [0x01084F6C]
+	(No symbol) [0x010811D8]
+	(No symbol) [0x010812BB]
+	(No symbol) [0x01074857]
+	BaseThreadInitThunk [0x76B00099+25]
+	RtlGetAppContainerNamedObjectPath [0x77D77B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77D77B3E+238]
 
-2023-05-03 14:00:24,882 - linkedin functions - ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
-  (Session info: chrome=112.0.5615.138)
+2023-05-11 15:26:06,060 - linkedin functions - INFO - FAILED logging
+2023-05-11 15:26:06,063 - linkedin spam bot - INFO - END linkedin bot
+2023-05-11 15:26:06,068 - __main__ - INFO - ---END---
+2023-05-11 15:28:27,461 - linkedin functions - INFO - Loading config file
+2023-05-11 15:28:27,469 - config_parser - INFO - reading json
+2023-05-11 15:28:27,475 - config_parser - INFO - json read successfully
+2023-05-11 15:28:27,479 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:28:27,488 - linkedin spam bot - INFO - Loading config file
+2023-05-11 15:28:27,491 - config_parser - INFO - reading json
+2023-05-11 15:28:27,497 - config_parser - INFO - json read successfully
+2023-05-11 15:28:27,500 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 15:28:27,505 - __main__ - INFO - ---START---
+2023-05-11 15:28:27,511 - __main__ - INFO - START loading config file
+2023-05-11 15:28:27,514 - config_parser - INFO - reading json
+2023-05-11 15:28:27,522 - config_parser - INFO - json read successfully
+2023-05-11 15:28:27,526 - __main__ - INFO - END loading config file
+2023-05-11 15:28:27,533 - __main__ - INFO - Create account manager
+2023-05-11 15:28:30,141 - __main__ - INFO - START bot.run()
+2023-05-11 15:28:30,168 - linkedin spam bot - INFO - START linkedin bot
+2023-05-11 15:28:30,171 - linkedin functions - INFO - START linkedin login
+2023-05-11 15:28:36,297 - linkedin functions - INFO - finding username
+2023-05-11 15:28:36,588 - linkedin functions - INFO - finding password
+2023-05-11 15:28:36,603 - linkedin functions - ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="password"]"}
+  (Session info: chrome=113.0.5672.92)
 Stacktrace:
 Backtrace:
-	GetHandleVerifier [0x0043DCE3+50899]
-	(No symbol) [0x003CE111]
-	(No symbol) [0x002D5588]
-	(No symbol) [0x003008F9]
-	(No symbol) [0x00300AFB]
-	(No symbol) [0x0032F902]
-	(No symbol) [0x0031B944]
-	(No symbol) [0x0032E01C]
-	(No symbol) [0x0031B6F6]
-	(No symbol) [0x002F7708]
-	(No symbol) [0x002F886D]
-	GetHandleVerifier [0x006A3EAE+2566302]
-	GetHandleVerifier [0x006D92B1+2784417]
-	GetHandleVerifier [0x006D327C+2759788]
-	GetHandleVerifier [0x004D5740+672048]
-	(No symbol) [0x003D8872]
-	(No symbol) [0x003D41C8]
-	(No symbol) [0x003D42AB]
-	(No symbol) [0x003C71B7]
-	BaseThreadInitThunk [0x77900099+25]
-	RtlGetAppContainerNamedObjectPath [0x77A47B6E+286]
-	RtlGetAppContainerNamedObjectPath [0x77A47B3E+238]
+	GetHandleVerifier [0x010E8893+48451]
+	(No symbol) [0x0107B8A1]
+	(No symbol) [0x00F85058]
+	(No symbol) [0x00FB0467]
+	(No symbol) [0x00FB069B]
+	(No symbol) [0x00FDDD92]
+	(No symbol) [0x00FCA304]
+	(No symbol) [0x00FDC482]
+	(No symbol) [0x00FCA0B6]
+	(No symbol) [0x00FA7E08]
+	(No symbol) [0x00FA8F2D]
+	GetHandleVerifier [0x01348E3A+2540266]
+	GetHandleVerifier [0x01388959+2801161]
+	GetHandleVerifier [0x0138295C+2776588]
+	GetHandleVerifier [0x01172280+612144]
+	(No symbol) [0x01084F6C]
+	(No symbol) [0x010811D8]
+	(No symbol) [0x010812BB]
+	(No symbol) [0x01074857]
+	BaseThreadInitThunk [0x76B00099+25]
+	RtlGetAppContainerNamedObjectPath [0x77D77B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77D77B3E+238]
 
-2023-05-03 14:00:24,906 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:00:24,906 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:00:24,913 - __main__ - INFO - ---END---
-2023-05-03 14:01:18,236 - config_parser - INFO - reading json
-2023-05-03 14:01:18,246 - config_parser - INFO - reading json
-2023-05-03 14:01:18,247 - __main__ - INFO - ---START---
-2023-05-03 14:01:18,248 - __main__ - INFO - Loading config file
-2023-05-03 14:01:18,249 - config_parser - INFO - reading json
-2023-05-03 14:01:18,250 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:01:18,251 - __main__ - INFO - Create account manager
-2023-05-03 14:01:19,405 - __main__ - INFO - Run bot
-2023-05-03 14:01:19,407 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:01:19,407 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:01:22,840 - linkedin functions - ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
-  (Session info: chrome=112.0.5615.138)
-Stacktrace:
-Backtrace:
-	GetHandleVerifier [0x0043DCE3+50899]
-	(No symbol) [0x003CE111]
-	(No symbol) [0x002D5588]
-	(No symbol) [0x003008F9]
-	(No symbol) [0x00300AFB]
-	(No symbol) [0x0032F902]
-	(No symbol) [0x0031B944]
-	(No symbol) [0x0032E01C]
-	(No symbol) [0x0031B6F6]
-	(No symbol) [0x002F7708]
-	(No symbol) [0x002F886D]
-	GetHandleVerifier [0x006A3EAE+2566302]
-	GetHandleVerifier [0x006D92B1+2784417]
-	GetHandleVerifier [0x006D327C+2759788]
-	GetHandleVerifier [0x004D5740+672048]
-	(No symbol) [0x003D8872]
-	(No symbol) [0x003D41C8]
-	(No symbol) [0x003D42AB]
-	(No symbol) [0x003C71B7]
-	BaseThreadInitThunk [0x77900099+25]
-	RtlGetAppContainerNamedObjectPath [0x77A47B6E+286]
-	RtlGetAppContainerNamedObjectPath [0x77A47B3E+238]
-
-2023-05-03 14:01:22,840 - linkedin functions - ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
-  (Session info: chrome=112.0.5615.138)
-Stacktrace:
-Backtrace:
-	GetHandleVerifier [0x0043DCE3+50899]
-	(No symbol) [0x003CE111]
-	(No symbol) [0x002D5588]
-	(No symbol) [0x003008F9]
-	(No symbol) [0x00300AFB]
-	(No symbol) [0x0032F902]
-	(No symbol) [0x0031B944]
-	(No symbol) [0x0032E01C]
-	(No symbol) [0x0031B6F6]
-	(No symbol) [0x002F7708]
-	(No symbol) [0x002F886D]
-	GetHandleVerifier [0x006A3EAE+2566302]
-	GetHandleVerifier [0x006D92B1+2784417]
-	GetHandleVerifier [0x006D327C+2759788]
-	GetHandleVerifier [0x004D5740+672048]
-	(No symbol) [0x003D8872]
-	(No symbol) [0x003D41C8]
-	(No symbol) [0x003D42AB]
-	(No symbol) [0x003C71B7]
-	BaseThreadInitThunk [0x77900099+25]
-	RtlGetAppContainerNamedObjectPath [0x77A47B6E+286]
-	RtlGetAppContainerNamedObjectPath [0x77A47B3E+238]
-
-2023-05-03 14:01:22,864 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:01:22,864 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:01:22,872 - __main__ - INFO - ---END---
-2023-05-03 14:01:41,998 - config_parser - INFO - reading json
-2023-05-03 14:01:42,001 - config_parser - INFO - reading json
-2023-05-03 14:01:42,003 - __main__ - INFO - ---START---
-2023-05-03 14:01:42,004 - __main__ - INFO - Loading config file
-2023-05-03 14:01:42,005 - config_parser - INFO - reading json
-2023-05-03 14:01:42,006 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:01:42,007 - __main__ - INFO - Create account manager
-2023-05-03 14:01:43,219 - __main__ - INFO - Run bot
-2023-05-03 14:01:43,263 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:01:43,263 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:01:47,330 - linkedin functions - ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
-  (Session info: chrome=112.0.5615.138)
-Stacktrace:
-Backtrace:
-	GetHandleVerifier [0x0043DCE3+50899]
-	(No symbol) [0x003CE111]
-	(No symbol) [0x002D5588]
-	(No symbol) [0x003008F9]
-	(No symbol) [0x00300AFB]
-	(No symbol) [0x0032F902]
-	(No symbol) [0x0031B944]
-	(No symbol) [0x0032E01C]
-	(No symbol) [0x0031B6F6]
-	(No symbol) [0x002F7708]
-	(No symbol) [0x002F886D]
-	GetHandleVerifier [0x006A3EAE+2566302]
-	GetHandleVerifier [0x006D92B1+2784417]
-	GetHandleVerifier [0x006D327C+2759788]
-	GetHandleVerifier [0x004D5740+672048]
-	(No symbol) [0x003D8872]
-	(No symbol) [0x003D41C8]
-	(No symbol) [0x003D42AB]
-	(No symbol) [0x003C71B7]
-	BaseThreadInitThunk [0x77900099+25]
-	RtlGetAppContainerNamedObjectPath [0x77A47B6E+286]
-	RtlGetAppContainerNamedObjectPath [0x77A47B3E+238]
-
-2023-05-03 14:01:47,330 - linkedin functions - ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
-  (Session info: chrome=112.0.5615.138)
-Stacktrace:
-Backtrace:
-	GetHandleVerifier [0x0043DCE3+50899]
-	(No symbol) [0x003CE111]
-	(No symbol) [0x002D5588]
-	(No symbol) [0x003008F9]
-	(No symbol) [0x00300AFB]
-	(No symbol) [0x0032F902]
-	(No symbol) [0x0031B944]
-	(No symbol) [0x0032E01C]
-	(No symbol) [0x0031B6F6]
-	(No symbol) [0x002F7708]
-	(No symbol) [0x002F886D]
-	GetHandleVerifier [0x006A3EAE+2566302]
-	GetHandleVerifier [0x006D92B1+2784417]
-	GetHandleVerifier [0x006D327C+2759788]
-	GetHandleVerifier [0x004D5740+672048]
-	(No symbol) [0x003D8872]
-	(No symbol) [0x003D41C8]
-	(No symbol) [0x003D42AB]
-	(No symbol) [0x003C71B7]
-	BaseThreadInitThunk [0x77900099+25]
-	RtlGetAppContainerNamedObjectPath [0x77A47B6E+286]
-	RtlGetAppContainerNamedObjectPath [0x77A47B3E+238]
-
-2023-05-03 14:01:47,404 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:01:47,404 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:01:47,411 - __main__ - INFO - ---END---
-2023-05-03 14:02:03,108 - config_parser - INFO - reading json
-2023-05-03 14:02:03,111 - config_parser - INFO - reading json
-2023-05-03 14:02:03,113 - __main__ - INFO - ---START---
-2023-05-03 14:02:03,114 - __main__ - INFO - Loading config file
-2023-05-03 14:02:03,115 - config_parser - INFO - reading json
-2023-05-03 14:02:03,116 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:02:03,116 - __main__ - INFO - Create account manager
-2023-05-03 14:02:04,267 - __main__ - INFO - Run bot
-2023-05-03 14:02:04,330 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:02:04,330 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:02:08,515 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by_id'
-2023-05-03 14:02:08,515 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by_id'
-2023-05-03 14:02:08,518 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:02:08,518 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:02:08,522 - __main__ - INFO - ---END---
-2023-05-03 14:02:32,547 - config_parser - INFO - reading json
-2023-05-03 14:02:32,551 - config_parser - INFO - reading json
-2023-05-03 14:02:32,553 - __main__ - INFO - ---START---
-2023-05-03 14:02:32,554 - __main__ - INFO - Loading config file
-2023-05-03 14:02:32,555 - config_parser - INFO - reading json
-2023-05-03 14:02:32,556 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:02:32,557 - __main__ - INFO - Create account manager
-2023-05-03 14:02:33,835 - __main__ - INFO - Run bot
-2023-05-03 14:02:33,843 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:02:33,843 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:02:38,448 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by_id'
-2023-05-03 14:02:38,448 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by_id'
-2023-05-03 14:02:38,483 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:02:38,483 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:02:38,485 - __main__ - INFO - ---END---
-2023-05-03 14:04:14,506 - config_parser - INFO - reading json
-2023-05-03 14:04:14,509 - config_parser - INFO - reading json
-2023-05-03 14:04:14,511 - __main__ - INFO - ---START---
-2023-05-03 14:04:14,511 - __main__ - INFO - Loading config file
-2023-05-03 14:04:14,512 - config_parser - INFO - reading json
-2023-05-03 14:04:14,513 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:04:14,515 - __main__ - INFO - Create account manager
-2023-05-03 14:04:15,686 - __main__ - INFO - Run bot
-2023-05-03 14:04:15,689 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:04:15,689 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:04:19,945 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
-2023-05-03 14:04:19,945 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
-2023-05-03 14:04:19,951 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:04:19,951 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:04:19,958 - __main__ - INFO - ---END---
-2023-05-03 14:04:43,032 - config_parser - INFO - reading json
-2023-05-03 14:04:43,035 - config_parser - INFO - reading json
-2023-05-03 14:04:43,036 - __main__ - INFO - ---START---
-2023-05-03 14:04:43,037 - __main__ - INFO - Loading config file
-2023-05-03 14:04:43,038 - config_parser - INFO - reading json
-2023-05-03 14:04:43,039 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:04:43,040 - __main__ - INFO - Create account manager
-2023-05-03 14:04:44,186 - __main__ - INFO - Run bot
-2023-05-03 14:04:44,187 - __main__ - INFO - ---END---
-2023-05-03 14:04:53,578 - config_parser - INFO - reading json
-2023-05-03 14:04:53,583 - config_parser - INFO - reading json
-2023-05-03 14:04:53,586 - __main__ - INFO - ---START---
-2023-05-03 14:04:53,586 - __main__ - INFO - Loading config file
-2023-05-03 14:04:53,587 - config_parser - INFO - reading json
-2023-05-03 14:04:53,588 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:04:53,589 - __main__ - INFO - Create account manager
-2023-05-03 14:04:54,759 - __main__ - INFO - Run bot
-2023-05-03 14:04:54,806 - __main__ - INFO - ---END---
-2023-05-03 14:05:08,351 - config_parser - INFO - reading json
-2023-05-03 14:05:08,357 - config_parser - INFO - reading json
-2023-05-03 14:05:08,361 - __main__ - INFO - ---START---
-2023-05-03 14:05:08,365 - __main__ - INFO - Loading config file
-2023-05-03 14:05:08,367 - config_parser - INFO - reading json
-2023-05-03 14:05:08,371 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:05:08,373 - __main__ - INFO - Create account manager
-2023-05-03 14:05:09,536 - __main__ - INFO - Run bot
-2023-05-03 14:05:09,602 - __main__ - INFO - ---END---
-2023-05-03 14:05:14,423 - config_parser - INFO - reading json
-2023-05-03 14:05:14,429 - config_parser - INFO - reading json
-2023-05-03 14:05:14,432 - __main__ - INFO - ---START---
-2023-05-03 14:05:14,435 - __main__ - INFO - Loading config file
-2023-05-03 14:05:14,437 - config_parser - INFO - reading json
-2023-05-03 14:05:14,440 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:05:14,446 - __main__ - INFO - Create account manager
-2023-05-03 14:05:15,629 - __main__ - INFO - Run bot
-2023-05-03 14:05:15,636 - __main__ - INFO - ---END---
-2023-05-03 14:06:01,249 - config_parser - INFO - reading json
-2023-05-03 14:06:01,254 - config_parser - INFO - reading json
-2023-05-03 14:06:01,260 - __main__ - INFO - ---START---
-2023-05-03 14:06:01,263 - __main__ - INFO - Loading config file
-2023-05-03 14:06:01,267 - config_parser - INFO - reading json
-2023-05-03 14:06:01,271 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:06:01,274 - __main__ - INFO - Create account manager
-2023-05-03 14:06:01,279 - __main__ - ERROR - name 'webdriver' is not defined
-2023-05-03 14:06:27,421 - config_parser - INFO - reading json
-2023-05-03 14:06:27,436 - config_parser - INFO - reading json
-2023-05-03 14:06:27,439 - __main__ - INFO - ---START---
-2023-05-03 14:06:27,441 - __main__ - INFO - Loading config file
-2023-05-03 14:06:27,446 - config_parser - INFO - reading json
-2023-05-03 14:06:27,449 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:06:27,452 - __main__ - INFO - Create account manager
-2023-05-03 14:06:28,653 - __main__ - INFO - Run bot
-2023-05-03 14:06:28,683 - __main__ - INFO - ---END---
-2023-05-03 14:06:43,229 - config_parser - INFO - reading json
-2023-05-03 14:06:43,233 - config_parser - INFO - reading json
-2023-05-03 14:06:43,237 - __main__ - INFO - ---START---
-2023-05-03 14:06:43,240 - __main__ - INFO - Loading config file
-2023-05-03 14:06:43,243 - config_parser - INFO - reading json
-2023-05-03 14:06:43,248 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:06:43,251 - __main__ - INFO - Create account manager
-2023-05-03 14:06:44,405 - __main__ - INFO - Run bot
-2023-05-03 14:06:44,464 - __main__ - ERROR - run() missing 1 required positional argument: 'driver'
-2023-05-03 14:06:51,802 - config_parser - INFO - reading json
-2023-05-03 14:06:51,813 - config_parser - INFO - reading json
-2023-05-03 14:06:51,816 - __main__ - INFO - ---START---
-2023-05-03 14:06:51,819 - __main__ - INFO - Loading config file
-2023-05-03 14:06:51,821 - config_parser - INFO - reading json
-2023-05-03 14:06:51,823 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:06:51,826 - __main__ - INFO - Create account manager
-2023-05-03 14:06:52,982 - __main__ - INFO - Run bot
-2023-05-03 14:06:52,986 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:06:52,986 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:06:57,162 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
-2023-05-03 14:06:57,162 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
-2023-05-03 14:06:57,167 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:06:57,167 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:06:57,173 - __main__ - INFO - ---END---
-2023-05-03 14:07:18,738 - config_parser - INFO - reading json
-2023-05-03 14:07:18,742 - config_parser - INFO - reading json
-2023-05-03 14:07:18,744 - __main__ - INFO - ---START---
-2023-05-03 14:07:18,745 - __main__ - INFO - Loading config file
-2023-05-03 14:07:18,746 - config_parser - INFO - reading json
-2023-05-03 14:07:18,747 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:07:18,748 - __main__ - INFO - Create account manager
-2023-05-03 14:07:19,911 - __main__ - INFO - Run bot
-2023-05-03 14:07:19,970 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:07:19,970 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:07:24,122 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
-2023-05-03 14:07:24,122 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
-2023-05-03 14:07:24,173 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:07:24,173 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:07:24,175 - __main__ - INFO - ---END---
-2023-05-03 14:08:16,005 - config_parser - INFO - reading json
-2023-05-03 14:08:16,009 - config_parser - INFO - reading json
-2023-05-03 14:08:16,010 - __main__ - INFO - ---START---
-2023-05-03 14:08:16,012 - __main__ - INFO - Loading config file
-2023-05-03 14:08:16,013 - config_parser - INFO - reading json
-2023-05-03 14:08:16,014 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:08:16,015 - __main__ - INFO - Create account manager
-2023-05-03 14:08:17,249 - __main__ - INFO - Run bot
-2023-05-03 14:08:17,252 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:08:17,252 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:08:21,475 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
-2023-05-03 14:08:21,475 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
-2023-05-03 14:08:21,480 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:08:21,480 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:08:21,486 - __main__ - INFO - ---END---
-2023-05-03 14:09:18,701 - config_parser - INFO - reading json
-2023-05-03 14:09:18,704 - config_parser - INFO - reading json
-2023-05-03 14:09:18,706 - __main__ - INFO - ---START---
-2023-05-03 14:09:18,707 - __main__ - INFO - Loading config file
-2023-05-03 14:09:18,708 - config_parser - INFO - reading json
-2023-05-03 14:09:18,709 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:09:18,710 - __main__ - INFO - Create account manager
-2023-05-03 14:09:19,859 - __main__ - INFO - Run bot
-2023-05-03 14:09:19,862 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:09:19,862 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:09:24,664 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
-2023-05-03 14:09:24,664 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
-2023-05-03 14:09:24,714 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:09:24,714 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:09:24,716 - __main__ - INFO - ---END---
-2023-05-03 14:10:26,753 - config_parser - INFO - reading json
-2023-05-03 14:10:26,756 - config_parser - INFO - reading json
-2023-05-03 14:10:26,757 - __main__ - INFO - ---START---
-2023-05-03 14:10:26,759 - __main__ - INFO - Loading config file
-2023-05-03 14:10:26,760 - config_parser - INFO - reading json
-2023-05-03 14:10:26,761 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:10:26,762 - __main__ - INFO - Create account manager
-2023-05-03 14:10:27,980 - __main__ - INFO - Run bot
-2023-05-03 14:10:27,986 - linkedin functions - INFO - START linkedin bot
-2023-05-03 14:10:27,986 - linkedin functions - INFO - START linkedin bot
-2023-05-03 14:10:27,993 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:10:27,993 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:10:31,297 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
-2023-05-03 14:10:31,297 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
-2023-05-03 14:10:31,301 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:10:31,301 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:10:31,303 - linkedin functions - INFO - END linkedin bot
-2023-05-03 14:10:31,303 - linkedin functions - INFO - END linkedin bot
-2023-05-03 14:10:31,305 - __main__ - INFO - ---END---
-2023-05-03 14:10:46,195 - config_parser - INFO - reading json
-2023-05-03 14:10:46,198 - config_parser - INFO - reading json
-2023-05-03 14:10:46,199 - __main__ - INFO - ---START---
-2023-05-03 14:10:46,201 - __main__ - INFO - Loading config file
-2023-05-03 14:10:46,206 - config_parser - INFO - reading json
-2023-05-03 14:10:46,208 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:10:46,213 - __main__ - INFO - Create account manager
-2023-05-03 14:10:47,368 - __main__ - INFO - Run bot
-2023-05-03 14:10:47,409 - __main__ - INFO - ---END---
-2023-05-03 14:10:57,902 - config_parser - INFO - reading json
-2023-05-03 14:10:57,907 - config_parser - INFO - reading json
-2023-05-03 14:11:03,942 - config_parser - INFO - reading json
-2023-05-03 14:11:03,949 - config_parser - INFO - reading json
-2023-05-03 14:11:10,734 - config_parser - INFO - reading json
-2023-05-03 14:11:10,739 - config_parser - INFO - reading json
-2023-05-03 14:11:10,742 - __main__ - INFO - ---START---
-2023-05-03 14:11:10,749 - __main__ - INFO - Loading config file
-2023-05-03 14:11:10,751 - config_parser - INFO - reading json
-2023-05-03 14:11:10,754 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:11:10,756 - __main__ - INFO - Create account manager
-2023-05-03 14:11:11,913 - __main__ - INFO - Run bot
-2023-05-03 14:11:11,917 - linkedin functions - INFO - START linkedin bot
-2023-05-03 14:11:11,917 - linkedin functions - INFO - START linkedin bot
-2023-05-03 14:11:11,923 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:11:11,923 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:11:16,065 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
-2023-05-03 14:11:16,065 - linkedin functions - ERROR - 'WebDriver' object has no attribute 'find_element_by'
-2023-05-03 14:11:16,119 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:11:16,119 - linkedin functions - INFO - FAILED logging
-2023-05-03 14:11:16,124 - linkedin functions - INFO - END linkedin bot
-2023-05-03 14:11:16,124 - linkedin functions - INFO - END linkedin bot
-2023-05-03 14:11:16,131 - __main__ - INFO - ---END---
-2023-05-03 14:12:31,541 - config_parser - INFO - reading json
-2023-05-03 14:12:31,545 - config_parser - INFO - reading json
-2023-05-03 14:12:31,547 - __main__ - INFO - ---START---
-2023-05-03 14:12:31,548 - __main__ - INFO - Loading config file
-2023-05-03 14:12:31,549 - config_parser - INFO - reading json
-2023-05-03 14:12:31,550 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:12:31,551 - __main__ - INFO - Create account manager
-2023-05-03 14:12:32,698 - __main__ - INFO - Run bot
-2023-05-03 14:12:32,699 - __main__ - ERROR - name 'login' is not defined
-2023-05-03 14:12:43,488 - config_parser - INFO - reading json
-2023-05-03 14:12:43,491 - config_parser - INFO - reading json
-2023-05-03 14:12:43,493 - __main__ - INFO - ---START---
-2023-05-03 14:12:43,494 - __main__ - INFO - Loading config file
-2023-05-03 14:12:43,495 - config_parser - INFO - reading json
-2023-05-03 14:12:43,496 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:12:43,497 - __main__ - INFO - Create account manager
-2023-05-03 14:12:44,650 - __main__ - INFO - Run bot
-2023-05-03 14:12:44,706 - __main__ - ERROR - name 'login' is not defined
-2023-05-03 14:13:16,814 - config_parser - INFO - reading json
-2023-05-03 14:13:16,820 - config_parser - INFO - reading json
-2023-05-03 14:13:31,119 - config_parser - INFO - reading json
-2023-05-03 14:13:31,126 - config_parser - INFO - reading json
-2023-05-03 14:13:31,129 - __main__ - INFO - ---START---
-2023-05-03 14:13:31,132 - __main__ - INFO - Loading config file
-2023-05-03 14:13:31,134 - config_parser - INFO - reading json
-2023-05-03 14:13:31,137 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:13:31,139 - __main__ - INFO - Create account manager
-2023-05-03 14:13:32,283 - __main__ - INFO - Run bot
-2023-05-03 14:13:59,901 - config_parser - INFO - reading json
-2023-05-03 14:13:59,905 - config_parser - INFO - reading json
-2023-05-03 14:13:59,909 - __main__ - INFO - ---START---
-2023-05-03 14:13:59,912 - __main__ - INFO - Loading config file
-2023-05-03 14:13:59,914 - config_parser - INFO - reading json
-2023-05-03 14:13:59,917 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:13:59,920 - __main__ - INFO - Create account manager
-2023-05-03 14:14:01,140 - __main__ - INFO - Run bot
-2023-05-03 14:14:01,172 - __main__ - ERROR - name 'logger' is not defined
-2023-05-03 14:16:03,671 - config_parser - INFO - reading json
-2023-05-03 14:16:03,674 - config_parser - INFO - reading json
-2023-05-03 14:16:03,675 - __main__ - INFO - ---START---
-2023-05-03 14:16:03,677 - __main__ - INFO - Loading config file
-2023-05-03 14:16:03,678 - config_parser - INFO - reading json
-2023-05-03 14:16:03,679 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:16:03,680 - __main__ - INFO - Create account manager
-2023-05-03 14:16:04,832 - __main__ - INFO - Run bot
-2023-05-03 14:16:04,869 - __main__ - ERROR - name 'login' is not defined
-2023-05-03 14:17:03,976 - config_parser - INFO - reading json
-2023-05-03 14:17:03,983 - config_parser - INFO - reading json
-2023-05-03 14:17:03,985 - __main__ - INFO - ---START---
-2023-05-03 14:17:03,986 - __main__ - INFO - Loading config file
-2023-05-03 14:17:03,986 - config_parser - INFO - reading json
-2023-05-03 14:17:03,987 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:17:03,988 - __main__ - INFO - Create account manager
-2023-05-03 14:17:05,257 - __main__ - INFO - Run bot
-2023-05-03 14:17:05,321 - __main__ - ERROR - name 'login' is not defined
-2023-05-03 14:17:22,227 - config_parser - INFO - reading json
-2023-05-03 14:17:22,231 - config_parser - INFO - reading json
-2023-05-03 14:17:22,232 - __main__ - INFO - ---START---
-2023-05-03 14:17:22,234 - __main__ - INFO - Loading config file
-2023-05-03 14:17:22,234 - config_parser - INFO - reading json
-2023-05-03 14:17:22,235 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:17:22,236 - __main__ - INFO - Create account manager
-2023-05-03 14:17:23,434 - __main__ - INFO - Run bot
-2023-05-03 14:17:23,475 - __main__ - INFO - ---END---
-2023-05-03 14:17:51,032 - config_parser - INFO - reading json
-2023-05-03 14:17:51,036 - config_parser - INFO - reading json
-2023-05-03 14:17:51,037 - __main__ - INFO - ---START---
-2023-05-03 14:17:51,038 - __main__ - INFO - Loading config file
-2023-05-03 14:17:51,039 - config_parser - INFO - reading json
-2023-05-03 14:17:51,040 - __main__ - INFO - Config file loaded successfully
-2023-05-03 14:17:51,041 - __main__ - INFO - Create account manager
-2023-05-03 14:17:52,250 - __main__ - INFO - Run bot
-2023-05-03 14:17:52,252 - linkedin functions - INFO - START linkedin bot
-2023-05-03 14:17:52,252 - linkedin functions - INFO - START linkedin bot
-2023-05-03 14:17:52,255 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:17:52,255 - linkedin functions - INFO - START linkedin login
-2023-05-03 14:17:58,500 - linkedin functions - INFO - END linkedin login
-2023-05-03 14:17:58,500 - linkedin functions - INFO - END linkedin login
-2023-05-03 14:17:58,566 - linkedin functions - INFO - END linkedin bot
-2023-05-03 14:17:58,566 - linkedin functions - INFO - END linkedin bot
-2023-05-03 14:17:58,568 - __main__ - INFO - ---END---
-2023-05-03 15:10:36,940 - config_parser - INFO - reading json
-2023-05-03 15:10:36,940 - config_parser - INFO - reading json
-2023-05-03 15:10:36,940 - __main__ - INFO - ---START---
-2023-05-03 15:10:36,940 - __main__ - INFO - Loading config file
-2023-05-03 15:10:36,940 - config_parser - INFO - reading json
-2023-05-03 15:10:36,940 - __main__ - INFO - Config file loaded successfully
-2023-05-03 15:10:36,940 - __main__ - INFO - Create account manager
-2023-05-03 15:10:38,704 - __main__ - INFO - Run bot
-2023-05-03 15:10:38,704 - linkedin functions - INFO - START linkedin bot
-2023-05-03 15:10:38,704 - linkedin functions - INFO - START linkedin bot
-2023-05-03 15:10:38,712 - linkedin functions - INFO - START linkedin login
-2023-05-03 15:10:38,712 - linkedin functions - INFO - START linkedin login
-2023-05-03 15:10:39,062 - linkedin functions - ERROR - Message: unknown error: net::ERR_NAME_NOT_RESOLVED
-  (Session info: chrome=112.0.5615.138)
-Stacktrace:
-Backtrace:
-	GetHandleVerifier [0x010FDCE3+50899]
-	(No symbol) [0x0108E111]
-	(No symbol) [0x00F95588]
-	(No symbol) [0x00F91D87]
-	(No symbol) [0x00F88B45]
-	(No symbol) [0x00F89B1A]
-	(No symbol) [0x00F88E20]
-	(No symbol) [0x00F88275]
-	(No symbol) [0x00F8820C]
-	(No symbol) [0x00F86F06]
-	(No symbol) [0x00F87668]
-	(No symbol) [0x00F96D22]
-	(No symbol) [0x00FEE631]
-	(No symbol) [0x00FDB8FC]
-	(No symbol) [0x00FEE01C]
-	(No symbol) [0x00FDB6F6]
-	(No symbol) [0x00FB7708]
-	(No symbol) [0x00FB886D]
-	GetHandleVerifier [0x01363EAE+2566302]
-	GetHandleVerifier [0x013992B1+2784417]
-	GetHandleVerifier [0x0139327C+2759788]
-	GetHandleVerifier [0x01195740+672048]
-	(No symbol) [0x01098872]
-	(No symbol) [0x010941C8]
-	(No symbol) [0x010942AB]
-	(No symbol) [0x010871B7]
-	BaseThreadInitThunk [0x77900099+25]
-	RtlGetAppContainerNamedObjectPath [0x77A47B6E+286]
-	RtlGetAppContainerNamedObjectPath [0x77A47B3E+238]
-
-2023-05-03 15:10:39,062 - linkedin functions - ERROR - Message: unknown error: net::ERR_NAME_NOT_RESOLVED
-  (Session info: chrome=112.0.5615.138)
-Stacktrace:
-Backtrace:
-	GetHandleVerifier [0x010FDCE3+50899]
-	(No symbol) [0x0108E111]
-	(No symbol) [0x00F95588]
-	(No symbol) [0x00F91D87]
-	(No symbol) [0x00F88B45]
-	(No symbol) [0x00F89B1A]
-	(No symbol) [0x00F88E20]
-	(No symbol) [0x00F88275]
-	(No symbol) [0x00F8820C]
-	(No symbol) [0x00F86F06]
-	(No symbol) [0x00F87668]
-	(No symbol) [0x00F96D22]
-	(No symbol) [0x00FEE631]
-	(No symbol) [0x00FDB8FC]
-	(No symbol) [0x00FEE01C]
-	(No symbol) [0x00FDB6F6]
-	(No symbol) [0x00FB7708]
-	(No symbol) [0x00FB886D]
-	GetHandleVerifier [0x01363EAE+2566302]
-	GetHandleVerifier [0x013992B1+2784417]
-	GetHandleVerifier [0x0139327C+2759788]
-	GetHandleVerifier [0x01195740+672048]
-	(No symbol) [0x01098872]
-	(No symbol) [0x010941C8]
-	(No symbol) [0x010942AB]
-	(No symbol) [0x010871B7]
-	BaseThreadInitThunk [0x77900099+25]
-	RtlGetAppContainerNamedObjectPath [0x77A47B6E+286]
-	RtlGetAppContainerNamedObjectPath [0x77A47B3E+238]
-
-2023-05-03 15:10:39,062 - __main__ - ERROR - Linkedin spam bot failed: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
-  (Session info: chrome=112.0.5615.138)
-Stacktrace:
-Backtrace:
-	GetHandleVerifier [0x010FDCE3+50899]
-	(No symbol) [0x0108E111]
-	(No symbol) [0x00F95588]
-	(No symbol) [0x00F91D87]
-	(No symbol) [0x00F88B45]
-	(No symbol) [0x00F89B1A]
-	(No symbol) [0x00F88E20]
-	(No symbol) [0x00F88275]
-	(No symbol) [0x00F8820C]
-	(No symbol) [0x00F86F06]
-	(No symbol) [0x00F87668]
-	(No symbol) [0x00F96D22]
-	(No symbol) [0x00FEE631]
-	(No symbol) [0x00FDB8FC]
-	(No symbol) [0x00FEE01C]
-	(No symbol) [0x00FDB6F6]
-	(No symbol) [0x00FB7708]
-	(No symbol) [0x00FB886D]
-	GetHandleVerifier [0x01363EAE+2566302]
-	GetHandleVerifier [0x013992B1+2784417]
-	GetHandleVerifier [0x0139327C+2759788]
-	GetHandleVerifier [0x01195740+672048]
-	(No symbol) [0x01098872]
-	(No symbol) [0x010941C8]
-	(No symbol) [0x010942AB]
-	(No symbol) [0x010871B7]
-	BaseThreadInitThunk [0x77900099+25]
-	RtlGetAppContainerNamedObjectPath [0x77A47B6E+286]
-	RtlGetAppContainerNamedObjectPath [0x77A47B3E+238]
-
-2023-05-03 16:16:58,505 - config_parser - INFO - reading json
-2023-05-03 16:16:58,544 - config_parser - INFO - reading json
-2023-05-03 16:16:58,546 - __main__ - INFO - ---START---
-2023-05-03 16:16:58,547 - __main__ - INFO - Loading config file
-2023-05-03 16:16:58,549 - config_parser - INFO - reading json
-2023-05-03 16:16:58,550 - __main__ - INFO - Config file loaded successfully
-2023-05-03 16:16:58,552 - __main__ - INFO - Create account manager
-2023-05-03 16:16:58,553 - __main__ - INFO - ---END---
+2023-05-11 15:28:36,616 - linkedin functions - INFO - FAILED logging
+2023-05-11 15:28:36,619 - linkedin spam bot - INFO - END linkedin bot
+2023-05-11 15:28:36,626 - __main__ - INFO - ---END---
+2023-05-11 15:29:57,888 - linkedin functions - INFO - Loading config file
+2023-05-11 15:29:57,891 - config_parser - INFO - reading json
+2023-05-11 15:29:57,892 - config_parser - INFO - json read successfully
+2023-05-11 15:29:57,893 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:29:57,895 - linkedin spam bot - INFO - Loading config file
+2023-05-11 15:29:57,896 - config_parser - INFO - reading json
+2023-05-11 15:29:57,897 - config_parser - INFO - json read successfully
+2023-05-11 15:29:57,898 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 15:29:57,899 - __main__ - INFO - ---START---
+2023-05-11 15:29:57,900 - __main__ - INFO - START loading config file
+2023-05-11 15:29:57,900 - config_parser - INFO - reading json
+2023-05-11 15:29:57,901 - config_parser - INFO - json read successfully
+2023-05-11 15:29:57,902 - __main__ - INFO - END loading config file
+2023-05-11 15:29:57,903 - __main__ - INFO - Create account manager
+2023-05-11 15:30:00,428 - __main__ - INFO - START bot.run()
+2023-05-11 15:30:00,461 - linkedin spam bot - INFO - START linkedin bot
+2023-05-11 15:30:00,462 - linkedin functions - INFO - START linkedin login
+2023-05-11 15:30:06,545 - linkedin functions - INFO - finding username
+2023-05-11 15:30:06,815 - linkedin functions - INFO - finding password
+2023-05-11 15:30:06,862 - linkedin functions - INFO - Credentials successfully filled
+2023-05-11 15:30:18,290 - linkedin functions - INFO - END linkedin login
+2023-05-11 15:30:18,313 - linkedin spam bot - INFO - END linkedin bot
+2023-05-11 15:30:18,314 - __main__ - INFO - ---END---
+2023-05-11 15:37:57,618 - linkedin functions - INFO - Loading config file
+2023-05-11 15:37:57,621 - config_parser - INFO - reading json
+2023-05-11 15:37:57,622 - config_parser - INFO - json read successfully
+2023-05-11 15:37:57,623 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:37:57,624 - linkedin spam bot - INFO - Loading config file
+2023-05-11 15:37:57,625 - config_parser - INFO - reading json
+2023-05-11 15:37:57,626 - config_parser - INFO - json read successfully
+2023-05-11 15:37:57,627 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 15:37:57,629 - __main__ - INFO - ---START---
+2023-05-11 15:37:57,630 - __main__ - INFO - START loading config file
+2023-05-11 15:37:57,631 - config_parser - INFO - reading json
+2023-05-11 15:37:57,632 - config_parser - INFO - json read successfully
+2023-05-11 15:37:57,633 - __main__ - INFO - END loading config file
+2023-05-11 15:37:57,634 - __main__ - INFO - Create account manager
+2023-05-11 15:38:00,129 - __main__ - INFO - START bot.run()
+2023-05-11 15:38:00,131 - linkedin spam bot - INFO - START linkedin bot
+2023-05-11 15:38:00,134 - linkedin functions - INFO - START linkedin login
+2023-05-11 15:38:06,274 - linkedin functions - INFO - finding username
+2023-05-11 15:38:06,549 - linkedin functions - INFO - finding password
+2023-05-11 15:38:06,596 - linkedin functions - INFO - Credentials successfully filled
+2023-05-11 15:38:17,568 - linkedin functions - INFO - END linkedin login
+2023-05-11 15:38:17,569 - linkedin spam bot - INFO - END linkedin bot
+2023-05-11 15:38:17,570 - __main__ - INFO - ---END---
+2023-05-11 15:48:49,930 - linkedin functions - INFO - Loading config file
+2023-05-11 15:48:49,933 - config_parser - INFO - reading json
+2023-05-11 15:48:49,934 - config_parser - INFO - json read successfully
+2023-05-11 15:48:49,935 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:48:49,937 - linkedin spam bot - INFO - Loading config file
+2023-05-11 15:48:49,937 - config_parser - INFO - reading json
+2023-05-11 15:48:49,938 - config_parser - INFO - json read successfully
+2023-05-11 15:48:49,939 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 15:48:49,941 - __main__ - INFO - ---START---
+2023-05-11 15:48:49,942 - __main__ - INFO - START loading config file
+2023-05-11 15:48:49,942 - config_parser - INFO - reading json
+2023-05-11 15:48:49,943 - config_parser - INFO - json read successfully
+2023-05-11 15:48:49,944 - __main__ - INFO - END loading config file
+2023-05-11 15:48:49,945 - __main__ - INFO - Create account manager
+2023-05-11 15:48:52,497 - __main__ - INFO - START bot.run()
+2023-05-11 15:48:52,539 - linkedin spam bot - INFO - START linkedin bot
+2023-05-11 15:48:52,541 - linkedin functions - INFO - START linkedin login
+2023-05-11 15:48:58,497 - linkedin functions - INFO - finding username
+2023-05-11 15:48:58,845 - linkedin functions - INFO - finding password
+2023-05-11 15:48:58,895 - linkedin functions - INFO - Credentials successfully filled
+2023-05-11 15:49:10,093 - linkedin functions - INFO - END linkedin login
+2023-05-11 15:49:10,094 - linkedin spam bot - INFO - END linkedin bot
+2023-05-11 15:49:10,095 - __main__ - INFO - ---END---
+2023-05-11 15:49:39,299 - linkedin functions - INFO - Loading config file
+2023-05-11 15:49:39,301 - config_parser - INFO - reading json
+2023-05-11 15:49:39,302 - config_parser - INFO - json read successfully
+2023-05-11 15:49:39,303 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 15:49:39,306 - linkedin spam bot - INFO - Loading config file
+2023-05-11 15:49:39,308 - config_parser - INFO - reading json
+2023-05-11 15:49:39,310 - config_parser - INFO - json read successfully
+2023-05-11 15:49:39,313 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 15:49:39,316 - __main__ - INFO - ---START---
+2023-05-11 15:49:39,319 - __main__ - INFO - START loading config file
+2023-05-11 15:49:39,321 - config_parser - INFO - reading json
+2023-05-11 15:49:39,324 - config_parser - INFO - json read successfully
+2023-05-11 15:49:39,326 - __main__ - INFO - END loading config file
+2023-05-11 15:49:39,330 - __main__ - INFO - Create account manager
+2023-05-11 15:49:41,813 - __main__ - INFO - START bot.run()
+2023-05-11 15:49:41,868 - linkedin spam bot - INFO - START linkedin bot
+2023-05-11 15:49:41,870 - linkedin functions - INFO - START linkedin login
+2023-05-11 15:49:47,765 - linkedin functions - INFO - finding username
+2023-05-11 15:49:48,045 - linkedin functions - INFO - finding password
+2023-05-11 15:49:48,099 - linkedin functions - INFO - Credentials successfully filled
+2023-05-11 15:50:00,799 - linkedin functions - INFO - END linkedin login
+2023-05-11 15:50:00,821 - linkedin spam bot - INFO - END linkedin bot
+2023-05-11 15:50:00,824 - __main__ - INFO - ---END---
+2023-05-11 20:52:15,755 - linkedin functions - INFO - Loading config file
+2023-05-11 20:52:15,799 - config_parser - INFO - reading json
+2023-05-11 20:52:15,802 - config_parser - INFO - json read successfully
+2023-05-11 20:52:15,803 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 20:52:15,804 - linkedin spam bot - INFO - Loading config file
+2023-05-11 20:52:15,805 - config_parser - INFO - reading json
+2023-05-11 20:52:15,806 - config_parser - INFO - json read successfully
+2023-05-11 20:52:15,806 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 20:52:15,808 - __main__ - INFO - ---START---
+2023-05-11 20:52:15,809 - __main__ - INFO - START loading config file
+2023-05-11 20:52:15,809 - config_parser - INFO - reading json
+2023-05-11 20:52:15,810 - config_parser - INFO - json read successfully
+2023-05-11 20:52:15,812 - __main__ - INFO - END loading config file
+2023-05-11 20:52:15,813 - __main__ - INFO - Create account manager
+2023-05-11 20:52:18,443 - __main__ - INFO - START bot.run()
+2023-05-11 20:52:18,464 - linkedin spam bot - INFO - START linkedin bot
+2023-05-11 20:52:18,465 - linkedin functions - INFO - START linkedin login
+2023-05-11 20:52:24,514 - linkedin functions - INFO - finding username
+2023-05-11 20:52:24,856 - linkedin functions - INFO - finding password
+2023-05-11 20:52:24,903 - linkedin functions - INFO - credentials successfully filled
+2023-05-11 20:52:25,107 - linkedin functions - INFO - signing in
+2023-05-11 20:52:37,884 - linkedin functions - INFO - END linkedin login
+2023-05-11 20:52:37,886 - linkedin spam bot - ERROR - search() missing 1 required positional argument: 'search_string'
+2023-05-11 20:52:37,887 - __main__ - ERROR - Linkedin spam bot failed: search() missing 1 required positional argument: 'search_string'
+2023-05-11 20:53:23,756 - linkedin functions - INFO - Loading config file
+2023-05-11 20:53:23,819 - config_parser - INFO - reading json
+2023-05-11 20:53:23,820 - config_parser - INFO - json read successfully
+2023-05-11 20:53:23,821 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 20:53:23,822 - linkedin spam bot - INFO - Loading config file
+2023-05-11 20:53:23,823 - config_parser - INFO - reading json
+2023-05-11 20:53:23,824 - config_parser - INFO - json read successfully
+2023-05-11 20:53:23,825 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 20:53:23,826 - __main__ - INFO - ---START---
+2023-05-11 20:53:23,827 - __main__ - INFO - START loading config file
+2023-05-11 20:53:23,828 - config_parser - INFO - reading json
+2023-05-11 20:53:23,829 - config_parser - INFO - json read successfully
+2023-05-11 20:53:23,830 - __main__ - INFO - END loading config file
+2023-05-11 20:53:23,831 - __main__ - INFO - Create account manager
+2023-05-11 20:53:26,377 - __main__ - INFO - START bot.run()
+2023-05-11 20:53:26,390 - linkedin spam bot - INFO - START linkedin bot
+2023-05-11 20:53:26,391 - linkedin functions - INFO - START linkedin login
+2023-05-11 20:53:32,445 - linkedin functions - INFO - finding username
+2023-05-11 20:53:32,728 - linkedin functions - INFO - finding password
+2023-05-11 20:53:32,777 - linkedin functions - INFO - credentials successfully filled
+2023-05-11 20:53:32,981 - linkedin functions - INFO - signing in
+2023-05-11 20:53:45,862 - linkedin functions - INFO - END linkedin login
+2023-05-11 20:53:45,868 - linkedin functions - INFO - START search
+2023-05-11 20:53:45,872 - linkedin functions - ERROR - name 'EC' is not defined
+2023-05-11 20:53:45,876 - linkedin spam bot - ERROR - Error durring searching name 'EC' is not defined
+2023-05-11 20:53:45,879 - __main__ - ERROR - Linkedin spam bot failed: Error durring searching name 'EC' is not defined
+2023-05-11 20:59:44,505 - linkedin functions - INFO - Loading config file
+2023-05-11 20:59:44,505 - config_parser - INFO - reading json
+2023-05-11 20:59:44,505 - config_parser - INFO - json read successfully
+2023-05-11 20:59:44,505 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 20:59:44,505 - linkedin spam bot - INFO - Loading config file
+2023-05-11 20:59:44,506 - config_parser - INFO - reading json
+2023-05-11 20:59:44,506 - config_parser - INFO - json read successfully
+2023-05-11 20:59:44,506 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 20:59:44,506 - __main__ - INFO - ---START---
+2023-05-11 20:59:44,506 - __main__ - INFO - START loading config file
+2023-05-11 20:59:44,506 - config_parser - INFO - reading json
+2023-05-11 20:59:44,506 - config_parser - INFO - json read successfully
+2023-05-11 20:59:44,507 - __main__ - INFO - END loading config file
+2023-05-11 20:59:44,507 - __main__ - INFO - Create account manager
+2023-05-11 20:59:46,910 - __main__ - INFO - START bot.run()
+2023-05-11 20:59:46,910 - linkedin spam bot - INFO - START linkedin bot
+2023-05-11 20:59:46,910 - linkedin functions - INFO - START linkedin login
+2023-05-11 20:59:53,059 - linkedin functions - INFO - finding username
+2023-05-11 20:59:53,343 - linkedin functions - INFO - finding password
+2023-05-11 20:59:53,391 - linkedin functions - INFO - credentials successfully filled
+2023-05-11 20:59:53,592 - linkedin functions - INFO - signing in
+2023-05-11 21:00:06,649 - linkedin functions - INFO - END linkedin login
+2023-05-11 21:00:06,649 - linkedin functions - INFO - START search
+2023-05-11 21:00:07,285 - linkedin functions - INFO - Entering search string
+2023-05-11 21:00:09,362 - linkedin functions - INFO - END search
+2023-05-11 21:00:09,362 - linkedin spam bot - INFO - END linkedin bot
+2023-05-11 21:00:09,362 - __main__ - INFO - END bot.run()
+2023-05-11 21:00:09,362 - __main__ - INFO - ---END---
+2023-05-11 21:00:47,982 - linkedin functions - INFO - Loading config file
+2023-05-11 21:00:47,982 - config_parser - INFO - reading json
+2023-05-11 21:00:47,983 - config_parser - INFO - json read successfully
+2023-05-11 21:00:47,983 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 21:00:47,983 - linkedin spam bot - INFO - Loading config file
+2023-05-11 21:00:47,983 - config_parser - INFO - reading json
+2023-05-11 21:00:47,984 - config_parser - INFO - json read successfully
+2023-05-11 21:00:47,984 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 21:00:47,984 - __main__ - INFO - ---START---
+2023-05-11 21:00:47,984 - __main__ - INFO - START loading config file
+2023-05-11 21:00:47,984 - config_parser - INFO - reading json
+2023-05-11 21:00:47,985 - config_parser - INFO - json read successfully
+2023-05-11 21:00:47,985 - __main__ - INFO - END loading config file
+2023-05-11 21:00:47,985 - __main__ - INFO - Create account manager
+2023-05-11 21:00:50,437 - __main__ - INFO - START bot.run()
+2023-05-11 21:00:50,437 - linkedin spam bot - INFO - START linkedin bot
+2023-05-11 21:00:50,437 - linkedin functions - INFO - START linkedin login
+2023-05-11 21:00:56,715 - linkedin functions - INFO - finding username
+2023-05-11 21:00:56,994 - linkedin functions - INFO - finding password
+2023-05-11 21:00:57,042 - linkedin functions - INFO - credentials successfully filled
+2023-05-11 21:00:57,250 - linkedin functions - INFO - signing in
+2023-05-11 21:01:10,150 - linkedin functions - INFO - END linkedin login
+2023-05-11 21:01:10,150 - linkedin functions - INFO - START search
+2023-05-11 21:01:10,851 - linkedin functions - INFO - Entering search string
+2023-05-11 21:01:12,934 - linkedin functions - INFO - END search
+2023-05-11 21:01:12,935 - linkedin spam bot - INFO - END linkedin bot
+2023-05-11 21:01:12,935 - __main__ - INFO - END bot.run()
+2023-05-11 21:01:22,945 - __main__ - INFO - ---END---
+2023-05-11 22:57:32,298 - linkedin functions - INFO - Loading config file
+2023-05-11 22:57:32,298 - config_parser - INFO - reading json
+2023-05-11 22:57:32,299 - config_parser - INFO - json read successfully
+2023-05-11 22:57:32,299 - linkedin functions - INFO - Config file loaded successfully
+2023-05-11 22:57:32,300 - linkedin spam bot - INFO - Loading config file
+2023-05-11 22:57:32,300 - config_parser - INFO - reading json
+2023-05-11 22:57:32,300 - config_parser - INFO - json read successfully
+2023-05-11 22:57:32,300 - linkedin spam bot - INFO - Config file loaded successfully
+2023-05-11 22:57:32,300 - __main__ - INFO - ---START---
+2023-05-11 22:57:32,300 - __main__ - INFO - START loading config file
+2023-05-11 22:57:32,300 - config_parser - INFO - reading json
+2023-05-11 22:57:32,301 - config_parser - INFO - json read successfully
+2023-05-11 22:57:32,301 - __main__ - INFO - END loading config file
+2023-05-11 22:57:32,301 - __main__ - INFO - Create account manager
+2023-05-11 22:57:34,724 - __main__ - INFO - START bot.run()
+2023-05-11 22:57:34,724 - linkedin spam bot - INFO - START linkedin bot
+2023-05-11 22:57:34,724 - linkedin functions - INFO - START linkedin login
+2023-05-11 22:57:41,111 - linkedin functions - INFO - finding username
+2023-05-11 22:57:41,405 - linkedin functions - INFO - finding password
+2023-05-11 22:57:41,454 - linkedin functions - INFO - credentials successfully filled
+2023-05-11 22:57:41,658 - linkedin functions - INFO - signing in
+2023-05-11 22:57:44,778 - linkedin functions - INFO - END linkedin login
+2023-05-11 22:57:44,778 - linkedin functions - INFO - START search
+2023-05-11 22:57:45,468 - linkedin functions - INFO - Entering search string
+2023-05-11 22:57:47,544 - linkedin functions - INFO - END search
+2023-05-11 22:57:47,545 - linkedin functions - INFO - START switch to people filter
+2023-05-11 22:57:51,735 - linkedin functions - INFO - END switch to people filter
+2023-05-11 22:57:51,735 - linkedin spam bot - INFO - END linkedin bot
+2023-05-11 22:57:51,735 - __main__ - INFO - END bot.run()
+2023-05-11 22:58:01,751 - __main__ - INFO - ---END---

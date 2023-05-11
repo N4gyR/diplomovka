@@ -1,8 +1,8 @@
 import json
 from utils.logger import Logger
 
-
 logger = Logger(name="config_parser").logger
+
 
 class Constants(object):
     """A class to represent config data collection.
@@ -31,6 +31,7 @@ class Constants(object):
         self.instagram_url = data_dic["WEBPORTALS"]["INSTAGRAM_URL"]
         self.twitter_url = data_dic["WEBPORTALS"]["TWITTER_URL"]
         self.linkedin_url = data_dic["WEBPORTALS"]["LINKEDIN_URL"]
+        logger.info("json read successfully")
 
 
 def read_json(file_path):
@@ -42,7 +43,10 @@ def read_json(file_path):
     Throws:
         None
     """
-    logger.info("reading json")
-    with open(file_path, "r") as f:
-        return json.load(f)
-    
+    try:
+        logger.info("reading json")
+        with open(file_path, "r") as f:
+            return json.load(f)
+    except Exception as exc:
+        logger.error(str(exc))
+        raise Exception(str(exc))
