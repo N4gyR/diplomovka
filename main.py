@@ -1,17 +1,19 @@
-from selenium import webdriver
 from selenium.webdriver import Chrome
-from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.support import expected_conditions as ec
 from time import sleep
+import sqlite3
+
 # Import modules
 from utils.logger import Logger
 from utils.config_parser import read_json
 from utils.config_parser import Constants
-from modules.linkedin.linkedin_bots.linkedin_spam_bot import LinkedinSpamBot
+from modules.email import gmail_functions as gf
+from modules.email import azet_functions as af
+
+# Bots
+from modules.facebook.facebook_bots.FirstGeneration.scrapping_bot import ScrappingBot
 
 
 def main():
@@ -26,24 +28,63 @@ def main():
         consts = Constants(config_dic)
         logger.info("END loading config file")
 
-        # Create account manager
-        logger.info("Create account manager")
-        ##account_manager = AccountManager(config_dic['ACCOUNTS'])
-
         # Start driver
         options = Options()
+        options.add_argument('--no-sandbox')
         options.add_argument("--disable-notifications")
+        options.add_argument("--log-level=3")
         options.add_argument("--start-maximized")
-        options.add_experimental_option("excludeSwitches", ["enable-automation"]) 
-        options.add_experimental_option('useAutomationExtension', False) 
-        webdriver = Chrome(options=options, service=Service(ChromeDriverManager().install()))
+        options.add_argument('--disable-dev-shm-usage')
+        options.add_argument('--single-process')
+        options.add_argument("--disable-blink-features=AutomationControlled")
+        options.add_experimental_option("excludeSwitches", ["enable-automation"])
+        options.add_experimental_option('useAutomationExtension', False)
+        options.add_argument("disable-infobars")
 
-        # Run LinkedIn bot
-        linkedin_bot = LinkedinSpamBot()
+        logger.info("Starting webdriver")
+        # webdriver = Chrome(options=options, service=Service(ChromeDriverManager().install()))
+        webdriver = Chrome(
+            service=Service("C:\\Users\\admin\\OneDrive\\Počítač\\skola\\diplmovka\\code\\drivers\\chromedriver.exe"),
+            options=options)
+        #   hide java script
+        webdriver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+        webdriver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
+            "source":
+                "const newProto = navigator.__proto__;"
+                "delete newProto.webdriver;"
+                "navigator.__proto__ = newProto;"
+        })
+
+        # call for specific bot on chosen social network
+        ## Run Facebook scrapper bot
+        logger.info("START facebook L1 scrapper bot")
+        facebook_bot = ScrappingBot()
         logger.info("START bot.run()")
-        linkedin_bot.run(webdriver)
+        facebook_bot.run(webdriver)
         logger.info("END bot.run()")
         sleep(10)
+
+        ## Run Instagram spam bot
+        # instagram_bot = InstagramSpamBot()
+        # logger.info("START bot.run()")
+        # instagram_bot.run(webdriver)
+        # logger.info("END bot.run()")
+        # sleep(10)
+
+        ## Run Twitter spam bot
+        # twitter_bot = TwitterSpamBot()
+        # logger.info("START bot.run()")
+        # twitter_bot.run(webdriver)
+        # logger.info("END bot.run()")
+        # sleep(10)
+
+        ## Run LinkedIn spam bot
+        # linkedin_bot = LinkedinSpamBot()
+        # logger.info("START bot.run()")
+        # linkedin_bot.run(webdriver)
+        # logger.info("END bot.run()")
+        # sleep(10)
+        sleep(5)
 
         logger.info("---END---")
     except Exception as exc:
@@ -52,7 +93,3 @@ def main():
 
 
 main()
-
-
-
-

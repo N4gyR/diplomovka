@@ -23,15 +23,13 @@ class Constants(object):
         # Location constants
         self.log_path = data_dic["LOCATIONS"]["LOG"]
         self.chromedriver_path = data_dic["LOCATIONS"]["CHROMEDRIVER_PATH"]
-        # Accounts constants
-        self.linkedin_username = data_dic["ACCOUNTS"]["LINKEDIN_USERNAME"]
-        self.linkedin_password = data_dic["ACCOUNTS"]["LINKEDIN_PASSWORD"]
         # Webportals constants
         self.facebook_url = data_dic["WEBPORTALS"]["FACEBOOK_URL"]
         self.instagram_url = data_dic["WEBPORTALS"]["INSTAGRAM_URL"]
         self.twitter_url = data_dic["WEBPORTALS"]["TWITTER_URL"]
         self.linkedin_url = data_dic["WEBPORTALS"]["LINKEDIN_URL"]
-        logger.info("json read successfully")
+        self.gmail_url = data_dic["WEBPORTALS"]["GMAIL_URL"]
+        self.azet_url = data_dic["WEBPORTALS"]["AZET_URL"]
 
 
 def read_json(file_path):
@@ -44,7 +42,6 @@ def read_json(file_path):
         None
     """
     try:
-        logger.info("reading json")
         with open(file_path, "r") as f:
             return json.load(f)
     except Exception as exc:

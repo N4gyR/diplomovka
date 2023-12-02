@@ -8,30 +8,18 @@
 		"WAIT_TIME_MEDIUM": 10,
 		"WAIT_TIME_LONG": 30
 	},
-	
 		"LOCATIONS": {
-		"LOG": "C:\\Users\\richard.nagy\\OneDrive - Mazars in Slovakia\\Pracovná plocha\\Archive\\diplmovka\\code\\logs\\log.txt",
-		"CHROMEDRIVER_PATH": "C:\\Users\\richard.nagy\\OneDrive - Mazars in Slovakia\\Pracovná plocha\\Archive\\diplmovka\\code\\drivers\\chromedriver.exe"
-	},
-		"ACCOUNTS": {
-		"LINKEDIN_USERNAME": "doxigan531@dekaps.com",
-		"LINKEDIN_PASSWORD": "Heslo2020"
+		"LOG": "C:\\Users\\admin\\OneDrive\\Počítač\\skola\\diplmovka\\code\\logs\\log.txt",
+		"CHROMEDRIVER_PATH": "C:\\Users\\admin\\OneDrive\\Počítač\\skola\\diplmovka\\code\\drivers\\chromedriver.exe"
 	},
 		"WEBPORTALS": {
 		"FACEBOOK_URL": "https://www.facebook.com/",
 		"INSTAGRAM_URL": "https://www.instagram.com/",
 		"TWITTER_URL": "https://twitter.com/",
-		"LINKEDIN_URL": "https://www.linkedin.com/"
+		"LINKEDIN_URL": "https://www.linkedin.com/",
+		"GMAIL_URL": "https://www.gmail.com/",
+		"AZET_URL": "https://www.azet.sk/"
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 	
 }

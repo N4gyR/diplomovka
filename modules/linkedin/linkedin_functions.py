@@ -14,10 +14,8 @@ from utils.config_parser import Constants
 logger = Logger(name="linkedin functions").logger
 
 # constants
-logger.info("Loading config file")
 config_dic = read_json("config.json")
 consts = Constants(config_dic)
-logger.info("Config file loaded successfully")
 
 
 def login(driver) -> bool:
